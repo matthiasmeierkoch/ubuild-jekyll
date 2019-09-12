@@ -21,8 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>N O R T H</strong><br>game "
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Fight your Way up North
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
