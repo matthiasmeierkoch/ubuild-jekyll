@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>N O R T H</strong><br>game "
-  content: Fight your Way up North
+  content: Fight your way up North
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
