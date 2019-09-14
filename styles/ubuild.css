@@ -57,6 +57,9 @@ p {
     .block-hero-2 h1 {
         font-size: 6rem;
     }
+    .block-hero-2 .column.text p {
+        font-size: 1.5rem !important;
+    }
 }
 
 .container {
@@ -360,7 +363,7 @@ input.inverted::placeholder {
     margin: 1rem 0 2rem;
     color: #fff;
     font-size: 16px;
-    font-size: 1.5rem
+    font-size: 1rem
 }
 
 .block-hero-2 .column.media img {
