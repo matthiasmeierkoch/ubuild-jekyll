@@ -17,7 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Game Design Document
-  background_image: "/uploads/2019/09/14/north-1.jpg"
+  background_image: "/uploads/2019/09/14/carl-raw-m3hn2Kn5Bns-unsplash.jpg"
   image:
     image: ''
     alt_text: ''
