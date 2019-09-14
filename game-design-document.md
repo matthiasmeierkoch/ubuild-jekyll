@@ -120,6 +120,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: ''
-  content: ''
+  content: "<ul><li><p>&lt;Reason #1&gt;</p></li><li><p>&lt;Reason #2&gt;</p></li><li><p>&lt;Reason
+    #3&gt;</p></li><li><p>&lt;Reason #4&gt;</p></li><li><p>&lt;etc.&gt;</p></li></ul>"
 
 ---
