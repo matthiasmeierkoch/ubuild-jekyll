@@ -8,5 +8,3 @@ fields:
   config: {}
   template: navigation-header
   label: test
-pages:
-- GameDesignDocument.md
