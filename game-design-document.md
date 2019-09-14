@@ -12,7 +12,7 @@ page_sections:
   - link: "/game-design-document"
     link_text: Game Design Document
   cta:
-    url: https://www.figma.com/file/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=0%3A1
+    url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North---Game?node-id=9%3A5&viewport=315%2C718%2C0.2886125147342682&scaling=scale-down
     button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
