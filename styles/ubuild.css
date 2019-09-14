@@ -13,10 +13,6 @@ h1 {
     line-height: 1
 }
 
-.block-hero-2 h1 {
-    font-size: 6rem;
-}
-
 h1 span.light {
     font-weight: 300
 }
@@ -57,6 +53,9 @@ p {
 @media screen and (min-width:1000px) {
     h1 {
         font-size: 4rem
+    }
+    .block-hero-2 h1 {
+        font-size: 6rem;
     }
 }
 
@@ -361,7 +360,7 @@ input.inverted::placeholder {
     margin: 1rem 0 2rem;
     color: #fff;
     font-size: 16px;
-    font-size: 1rem
+    font-size: 1.5rem
 }
 
 .block-hero-2 .column.media img {
