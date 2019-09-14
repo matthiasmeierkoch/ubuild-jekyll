@@ -69,5 +69,13 @@ page_sections:
     as many marketing team members as you need to)</p></li></ul></li></ul><p><strong>&lt;Licenses
     / Hardware / Other Costs&gt;</strong></p><p>text</p><p><strong>&lt;Total Costs
     with breakdown&gt;</strong></p><p>text</p>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: "<strong>Influences (Brief)</strong>"
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
