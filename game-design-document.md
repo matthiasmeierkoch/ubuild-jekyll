@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: Home
-  - link: ''
-    link_text: ''
+  - link: "/game-design-document"
+    link_text: Game Design Document
   - link: ''
     link_text: ''
   - link: ''
