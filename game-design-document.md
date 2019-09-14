@@ -16,6 +16,13 @@ page_sections:
   block: one-column-1
   headline: Overview
   content: ''
+- template: detail-content
+  block: text-1
+  headline: Theme / Setting / Genre
+  content: "<p>North ist ein Postapokalypse Action-Game. Dunkle und kalte Szenen Als
+    Überlebender ist eine Reise durch zahlreiche Länder anzutreten. Gespickt mit Gefahren
+    und Infizierten begibt man sich auf eine fast schon aussichtslose Reise von Süden
+    nach Norden.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
