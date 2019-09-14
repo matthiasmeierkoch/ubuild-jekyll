@@ -19,7 +19,7 @@ page_sections:
   headline: Game Design Document
   background_image: "/uploads/2019/09/14/carl-raw-m3hn2Kn5Bns-unsplash.jpg"
   image:
-    image: ''
+    image: "/uploads/2019/09/14/carl-raw-m3hn2Kn5Bns-unsplash.jpg"
     alt_text: ''
   content: ''
   cta:
