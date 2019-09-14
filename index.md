@@ -21,7 +21,7 @@ page_sections:
     Töte Infizierte, umgehe Gefahren und bahne dir einen Weg zur möglichen Rettung
     der Welt – nach Norden.<br>
   cta:
-    enabled: true
+    enabled: false
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=9%3A5&viewport=247%2C764%2C0.249214306473732&scaling=scale-down
     button_text: Prototype
   image:
