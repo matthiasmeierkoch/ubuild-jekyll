@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2019/09/14/north.jpg"
   navigation:
   - link: "/index"
-    link_text: ''
+    link_text: Home
   cta:
     url: ''
     button_text: ''
