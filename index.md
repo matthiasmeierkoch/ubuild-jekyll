@@ -11,10 +11,6 @@ page_sections:
     link_text: Home
   - link: "/game-design-document"
     link_text: Game Design Document
-  - link: "#team"
-    link_text: Team
-  - link: "#pricing"
-    link_text: Pricing
   cta:
     url: https://www.figma.com/file/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=0%3A1
     button_text: View Prototype
