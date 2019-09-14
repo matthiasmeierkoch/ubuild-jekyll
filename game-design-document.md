@@ -47,5 +47,9 @@ page_sections:
   content: "<ul><li><p>- &lt;Gameplay Mechanic #1&gt;</p></li><li><p>- &lt;Gameplay
     Mechanic #2&gt;</p></li><li><p>- &lt;Gameplay Mechanic #3&gt;</p></li><li><p>-
     &lt;Gameplay Mechanic #4&gt;</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: Targeted platforms
+  content: "<ul><li><p>Mobile, Android OS</p></li><li><p>iPhones, iOS</p></li></ul>"
 
 ---
