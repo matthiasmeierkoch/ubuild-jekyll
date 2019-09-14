@@ -23,8 +23,8 @@ page_sections:
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=9%3A5&viewport=247%2C764%2C0.249214306473732&scaling=scale-down
     button_text: Prototype
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: ''
+    image: "/uploads/2019/09/14/northgame_freigestellt.gif"
+    alt_text: north game
   background_image: "/uploads/2019/09/14/northgame_freigestellt.gif"
 - template: content-feature
   block: feature-1
