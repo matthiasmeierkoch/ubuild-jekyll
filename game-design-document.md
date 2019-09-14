@@ -85,9 +85,8 @@ page_sections:
     und gleichzeitig leuchtenden Farben passen zum kalten Norden.</p><p><br></p>
 - template: detail-content
   block: text-1
-  content: <p><img src="https://lh6.googleusercontent.com/FZ1lhcTryTOv1Igr1Lh8jXSjy7vC1mGjegbDCOuqTMIorpH2E-ZbSgeBdbU1v1yb01ONwc9VqOq4x6UB7G166bqL3Tisbz4gVjoJ5xpTteluYeZ3-Y3qbmNfS2P-Qy0_M1bVJhLv"
-    width="291" height="164"></p><p>PC Games</p><p>Der 16-Bit Stil des Spiels. Farben
-    und Stimmung der Umgebung.</p>
+  content: <p><img src="/uploads/2019/09/14/ss_a8392481aa4b090f15250395f62fac2c3403393c.1920x1080.jpg"></p><p><strong>PC
+    Games<br></strong>Der 16-Bit Stil des Spiels. Farben und Stimmung der Umgebung.</p>
   headline: InMost
 
 ---
