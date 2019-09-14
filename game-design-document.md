@@ -12,10 +12,18 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-- template: 1-column-text
-  block: one-column-1
+- template: hero-banner-w-image
+  block: hero-2
   headline: Overview
+  background_image: "/uploads/2019/09/14/north.jpg"
+  image:
+    image: ''
+    alt_text: ''
   content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
