@@ -4,7 +4,7 @@ author: Matthias Koch & Lars Mäder
 email: mail@larsmaeder.ch
 description: "Game Konzept von Matthias Koch und Lars Mäder, Interaction Design Studierende.\nFür
   das Modul «Game Design» unterrichtet and der Schule für Gestaltung Zürich (SFGZ) "
-baseurl: "/"
+baseurl: "/index"
 url: ''
 defaults:
 - scope:
