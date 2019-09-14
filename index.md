@@ -24,11 +24,11 @@ page_sections:
   content: Fight your way up North
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: ''
+    button_text: ''
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
