@@ -16,6 +16,14 @@ page_sections:
   block: one-column-1
   headline: Overview
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Overview
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: detail-content
   block: text-1
   headline: Theme / Setting / Genre
