@@ -130,5 +130,11 @@ page_sections:
     mit einem Joystick auf dem Display steuern. Dabei sind alle Richtungen möglich.
     Wird ein neuer Weg bzw. Richtungswechsel eingeschlagen, kann man sich nicht mehr
     zurück bewegen.</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #2'
+  content: "<p><strong>Action Button</strong></p><p>Löst eine gewisse Action aus.</p><p><strong>How
+    it works</strong></p><p>Durch drücken des Action Buttons lassen sich Waffen feuern,
+    Schatztruhen öffnen, Kämpfe mit Infizierten bewältigen und wenn nötig Türen öffnen.</p>"
 
 ---
