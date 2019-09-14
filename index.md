@@ -70,6 +70,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
 foo bar
