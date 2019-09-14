@@ -51,5 +51,9 @@ page_sections:
   block: text-1
   headline: Targeted platforms
   content: "<ul><li><p>Mobile, Android OS</p></li><li><p>iPhones, iOS</p></li></ul>"
+- template: detail-content
+  block: text-1
+  content: "<p>In-game purchases</p>"
+  headline: 'Monetization model (Brief/Document) '
 
 ---
