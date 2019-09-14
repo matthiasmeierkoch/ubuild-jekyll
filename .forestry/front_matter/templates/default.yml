@@ -1,6 +1,7 @@
 ---
 label: default
-hide_body: false
+hide_body: true
+display_field: block
 fields:
 - name: test
   type: include
