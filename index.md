@@ -16,8 +16,8 @@ page_sections:
   - link: "#pricing"
     link_text: Pricing
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://www.figma.com/file/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=0%3A1
+    button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>N O R T H</strong><br>game "
