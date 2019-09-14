@@ -16,7 +16,7 @@ page_sections:
     button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>N O R T H</strong><br>Das postapokalyptische action Erlebniss! "
+  headline: "<strong>N O R T H</strong><br>Das postapokalyptische action Erlebnis! "
   content: Triff kluge Entscheide und überlege gut welche Richtung du einschlägst.
     Töte Infizierte, umgehe Gefahren und bahne dir einen Weg zur möglichen Rettung
     der Welt – nach Norden.<br>
