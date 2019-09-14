@@ -16,7 +16,7 @@ page_sections:
     button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
-  headline: Game Design Document
+  headline: "<strong>Game Design Document</strong>"
   background_image: ''
   image:
     image: ''
