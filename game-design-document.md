@@ -104,5 +104,10 @@ page_sections:
   block: text-1
   headline: 'Project Description (Brief):'
   content: "<p>&lt;Two Paragraphs at least&gt;</p><p>&lt;No more than three paragraphs&gt;</p>"
+- template: detail-content
+  block: text-1
+  content: "<p>&lt;Four Paragraphs or more If needs be&gt;</p><p>&lt;No more than
+    six paragraphs&gt;</p>"
+  headline: Project Description (Detailed)
 
 ---
