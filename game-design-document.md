@@ -23,23 +23,11 @@ page_sections:
     Überlebender ist eine Reise durch zahlreiche Länder anzutreten. Gespickt mit Gefahren
     und Infizierten begibt man sich auf eine fast schon aussichtslose Reise von Süden
     nach Norden.</p>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: North ist ein Postapokalypse Action-Game. Dunkle und kalte Szenen Als Überlebender
-    ist eine Reise durch zahlreiche Länder anzutreten. Gespickt mit Gefahren und Infizierten
-    begibt man sich auf eine fast schon aussichtslose Reise von Süden nach Norden.
-  headline: "<strong>Theme / Setting / Genre</strong>"
-  media:
-    image: ''
-    alt_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: Core Gameplay Mechanics Brief
+  content: "<ul><li><p>- &lt;Gameplay Mechanic #1&gt;</p></li><li><p>- &lt;Gameplay
+    Mechanic #2&gt;</p></li><li><p>- &lt;Gameplay Mechanic #3&gt;</p></li><li><p>-
+    &lt;Gameplay Mechanic #4&gt;</p></li></ul>"
 
 ---
