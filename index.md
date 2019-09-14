@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: game-design-document
+  - link: "#game-design-document"
     link_text: Game Design Document
   - link: "#team"
     link_text: Team
