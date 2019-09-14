@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2019/09/14/northgame_freigestellt.gif"
     alt_text: north game
-  background_image: "/uploads/2019/09/14/northgame_freigestellt.gif"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
