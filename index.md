@@ -27,7 +27,7 @@ page_sections:
   image:
     image: "/uploads/2019/09/14/northgame_freigestellt.gif"
     alt_text: Prototype Screenshot aus dem Spiel
-  background_image: ''
+  background_image: "/uploads/2019/09/14/resul-DbwYNr8RPbg-unsplash (1).jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
