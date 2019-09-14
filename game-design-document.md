@@ -19,7 +19,7 @@ page_sections:
   headline: "<strong>Game Design Document</strong>"
   background_image: ''
   image:
-    image: ''
+    image: "/uploads/2019/09/14/ss_a8392481aa4b090f15250395f62fac2c3403393c.1920x1080.jpg"
     alt_text: ''
   content: ''
   cta:
