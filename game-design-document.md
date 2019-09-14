@@ -14,7 +14,7 @@ page_sections:
     button_text: ''
 - template: hero-banner-w-image
   block: hero-2
-  headline: Overview
+  headline: Game Design Document
   background_image: "/uploads/2019/09/14/north.jpg"
   image:
     image: ''
