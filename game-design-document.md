@@ -100,5 +100,9 @@ page_sections:
     triff kluge Entscheide und überlege gut welche Richtung du einschlägst. Töte Infizierte,
     umgehe Gefahren und bahne dir einen Weg zur möglichen Rettung der Welt – nach
     Norden.</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Project Description (Brief):'
+  content: "<p>&lt;Two Paragraphs at least&gt;</p><p>&lt;No more than three paragraphs&gt;</p>"
 
 ---
