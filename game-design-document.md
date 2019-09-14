@@ -109,5 +109,17 @@ page_sections:
   content: "<p>&lt;Four Paragraphs or more If needs be&gt;</p><p>&lt;No more than
     six paragraphs&gt;</p>"
   headline: Project Description (Detailed)
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: What sets this project apart?
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
