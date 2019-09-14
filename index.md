@@ -26,7 +26,7 @@ page_sections:
     button_text: Prototype
   image:
     image: "/uploads/2019/09/14/northgame_freigestellt.gif"
-    alt_text: north game
+    alt_text: Prototype Screenshot aus dem Spiel
   background_image: ''
 - template: content-feature
   block: feature-1
