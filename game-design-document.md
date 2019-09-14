@@ -29,7 +29,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Overview
+  headline: "<strong>Overview</strong>"
   content: ''
   media:
     image: ''
