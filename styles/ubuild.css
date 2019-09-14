@@ -73,6 +73,10 @@ p {
     padding: 4rem 2rem
 }
 
+.block:nth-child(even) {
+    background-color: rgba(242,242,245,1);
+}
+
 @media screen and (min-width:700px) {
     .block {
         padding: 6rem 4rem
