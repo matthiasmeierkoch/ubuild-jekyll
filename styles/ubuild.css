@@ -314,8 +314,8 @@ input.inverted::placeholder {
     background-color: var(--bg);
     color: var(--text);
     background-repeat: no-repeat;
-    background-size: auto 100%;
-    background-position: 100%
+    background-size: cover;
+    background-position: center
 }
 
 .block-hero-2,
