@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
+  - link: "#gamedesigndocument"
+    link_text: Game Design Document
   - link: "#team"
     link_text: Team
   - link: "#pricing"
