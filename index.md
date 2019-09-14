@@ -20,8 +20,8 @@ page_sections:
   content: Fight your way up North
   cta:
     enabled: true
-    url: ''
-    button_text: ''
+    url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=9%3A5&viewport=247%2C764%2C0.249214306473732&scaling=scale-down
+    button_text: Game the Prototype
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
