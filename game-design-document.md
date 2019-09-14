@@ -122,5 +122,13 @@ page_sections:
   headline: Reasons
   content: "<ul><li><p>&lt;Reason #1&gt;</p></li><li><p>&lt;Reason #2&gt;</p></li><li><p>&lt;Reason
     #3&gt;</p></li><li><p>&lt;Reason #4&gt;</p></li><li><p>&lt;etc.&gt;</p></li></ul>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #1'
+  content: "<p><strong>Details</strong></p><p>Steuerung (Vorwärts, Links, Rechts,
+    Rückwärts)</p><p><strong>How it works</strong></p><p>Der Charakter lässt sich
+    mit einem Joystick auf dem Display steuern. Dabei sind alle Richtungen möglich.
+    Wird ein neuer Weg bzw. Richtungswechsel eingeschlagen, kann man sich nicht mehr
+    zurück bewegen.</p>"
 
 ---
