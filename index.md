@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: ''
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2019/09/14/northgame_freigestellt.gif"
 - template: content-feature
   block: feature-1
   media_alignment: Left
