@@ -89,5 +89,16 @@ page_sections:
     width="291" height="164"></p><p><strong>PC Games<br></strong>Der 16-Bit Stil des
     Spiels. Farben und Stimmung der Umgebung.</p>
   headline: InMost
+- template: detail-content
+  block: text-1
+  headline: The elevator Pitch
+  content: "<p>Stell dir vor ein aggressiver Virus befällt die Welt und verwandelt
+    die Menschheit zu Monstern. Du bist die einzige Hoffnung der Menschheit. Eines
+    Tages lokalisiert du ein unbekanntes, im hohen Norden, abgesetztes Funksignal.
+    Weitere Überlebende? Du machst dich auf die Suche. Doch es gibt einen Haken, du
+    bist auf der anderen Seite der Welt – Im Süden. Es gibt keinen Weg zurück, also
+    triff kluge Entscheide und überlege gut welche Richtung du einschlägst. Töte Infizierte,
+    umgehe Gefahren und bahne dir einen Weg zur möglichen Rettung der Welt – nach
+    Norden.</p>"
 
 ---
