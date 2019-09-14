@@ -9,9 +9,15 @@ page_sections:
   navigation:
   - link: "/index"
     link_text: Home
+  - link: ''
+    link_text: ''
+  - link: ''
+    link_text: ''
+  - link: ''
+    link_text: ''
   cta:
-    url: ''
-    button_text: ''
+    url: https://www.figma.com/file/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=0%3A1
+    button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
   headline: Game Design Document
