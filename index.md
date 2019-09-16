@@ -41,14 +41,14 @@ page_sections:
     alt_text: Entscheidung
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
     edits throughout your new site</span>
   content: Each block comes with custom Front Matter that can easily be edited in
     Forestry's UI.
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2019/09/16/fight.png"
+    alt_text: Gegner
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
