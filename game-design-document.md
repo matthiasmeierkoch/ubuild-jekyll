@@ -158,5 +158,12 @@ page_sections:
   content: "<p>- &lt;Details&gt;</p><p>Power Ups, Waffen</p><p>- &lt;How it works&gt;</p><p>Waffen
     und Power-Ups beschaffen einen Vorteil oder können den Angriff des Charakters
     stärken. Infiszierte können so schneller ausgeschalten werden.</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #7'
+  content: "<p>- &lt;Details&gt;</p><p>Border Controls</p><p>- &lt;How it works&gt;</p><p>Trifft
+    man eine falsche Entscheidung und begibt sich auf einen Falschen Weg, gelangt
+    man zu einem Border Control. Aufständige machen sich die Apokalypse zum Vorteil
+    und verlangen einen Preis, damit du deine Reise weiterführen kannst. Münzen.</p>"
 
 ---
