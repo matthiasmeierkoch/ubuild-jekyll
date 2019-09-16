@@ -33,9 +33,9 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Entkomme dem Virus </strong>- Du musst dich für einen Weg entscheiden
     um dem Virus zu entkommen, der einzige Ort an dem du vor Ihm sicher bist ist im
-    Norden."
-  content: "<br>Der Weg nach Norden ist voller Gegner und Aufständigen, überlege dir
-    also gut für welche Richtung du dich entscheidest."
+    Norden. Der Weg nach Norden ist voller Gegner und Aufständigen, überlege dir also
+    gut für welche Richtung du dich entscheidest."
+  content: ''
   media:
     image: "/uploads/2019/09/16/Desicion.png"
     alt_text: Entscheidung
