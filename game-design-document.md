@@ -238,5 +238,11 @@ page_sections:
     Scripts (Runs in the background)</p><p>- Example</p><p>- NPC Scripts</p><p>- Example</p><p>-
     etc.</p><p><br></p>"
   headline: Code
+- template: detail-content
+  block: text-1
+  content: "<p>- Environment Animations</p><p>- Example</p><p>- etc.</p><p>- Character
+    Animations</p><p>- Player</p><p>- Example</p><p>- etc.</p><p>- NPC</p><p>- Example</p><p>-
+    etc.</p>"
+  headline: Animation
 
 ---
