@@ -75,7 +75,7 @@ page_sections:
     them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many
     marketing team members as you need to)</p><p></p></li></ul><h3><strong>Licenses
     / Hardware / Other Costs</strong></h3><ul><li><p>Music/Sounds</p></li><li><p>Assets</p></li><li><p>Apple
-    Developer Account</p></li><li><p>Hardware Testing Devices</p></li></ul><h3><strong>Total
+    Developer Account</p></li><li><p>Hardware Testing Devices</p><p></p></li></ul><h3><strong>Total
     Costs with breakdown</strong></h3><p>50´000–150´000 CHF</p>"
 - template: content-feature
   block: feature-1
