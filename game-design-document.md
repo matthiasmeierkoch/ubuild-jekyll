@@ -202,5 +202,17 @@ page_sections:
     Strassensperren errichtet. Diese musst du bezahlen oder das Level von neuem beginnen
     und eine andere Route versuchen, hier ist Geschicklichkeit gefragt.</p>"
   headline: Gameplay (Detailed)
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Assets Needed
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
