@@ -262,8 +262,8 @@ page_sections:
   headline: 'Object #2 '
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: 'Object #3'
+  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
 - template: detail-content
   block: text-1
   headline: ''
