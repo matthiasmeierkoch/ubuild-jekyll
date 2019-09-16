@@ -244,5 +244,13 @@ page_sections:
     Animations</p><p>- Player</p><p>- Example</p><p>- etc.</p><p>- NPC</p><p>- Example</p><p>-
     etc.</p>"
   headline: Animation
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Schedule
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
