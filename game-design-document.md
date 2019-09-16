@@ -87,6 +87,10 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
+  headline: test
+  content: ''
+- template: detail-content
+  block: text-1
   headline: A Walk In The Dark
   content: <p><img src="https://lh4.googleusercontent.com/BzzJQde6-M1Iz71HGg3loouDERb4hVSzEeQE4pdyeaR8H292KSc_EZi30ccIBAkMBbnPtgkJWAf6ZYDcTkbku-4n5wcd_EfQMdWniUvFZBdYnGZPs99DW64SmrqFnes-ftRpeHX5"
     width="290" height="162"></p><p><strong>PC Game</strong></p><p>Dunkle Stimmung,
