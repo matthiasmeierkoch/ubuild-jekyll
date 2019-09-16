@@ -73,8 +73,9 @@ page_sections:
     as many core team members as you need to)</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team
     Member name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ
     them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many
-    marketing team members as you need to)</p></li></ul><h3><strong>Licenses / Hardware
-    / Other Costs</strong></h3><p>text</p><h3><strong>Total Costs with breakdown</strong></h3><p>text</p>"
+    marketing team members as you need to)</p><p></p></li></ul><h3><strong>Licenses
+    / Hardware / Other Costs</strong></h3><p>text</p><h3><strong>Total Costs with
+    breakdown</strong></h3><p>text</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
