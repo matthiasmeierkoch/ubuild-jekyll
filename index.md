@@ -17,9 +17,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>N O R T H</strong>"
-  content: "<strong>Das postapokalyptische action Erlebnis!</strong><br>Triff kluge
-    Entscheide und überlege gut welche Richtung du einschlägst. Töte Infizierte, umgehe
-    Gefahren und bahne dir einen Weg zur möglichen Rettung der Welt – nach Norden.<br>"
+  content: "<strong>Das postapokalyptische action Erlebnis!</strong><br>Welche Richtung
+    du einschlägst entscheidet über Leben und Tod – Entscheide Weise. Töte Infizierte.
+    Umgehe Gefahren. Bahne dir einen Weg zur möglichen Rettung der Menschheit."
   cta:
     enabled: false
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=9%3A5&viewport=247%2C764%2C0.249214306473732&scaling=scale-down
