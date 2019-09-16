@@ -216,5 +216,11 @@ page_sections:
   content: "<p>- Textures</p><p>- Environment Textures</p><p>- Heightmap data (If
     applicable)</p><p>- List required data required - Example: DEM data of the entire
     UK.</p><p>- Etc.</p><p><br></p>"
+- template: detail-content
+  block: text-1
+  content: "<p>- Characters List</p><p>- Character #1</p><p>- Character #2</p><p>-
+    Character #3</p><p>- etc.</p><p>- Environmental Art Lists</p><p>- Example #1</p><p>-
+    Example #2</p><p>- Example #3</p><p>- etc.</p>"
+  headline: 3D
 
 ---
