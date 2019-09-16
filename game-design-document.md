@@ -165,5 +165,13 @@ page_sections:
     man eine falsche Entscheidung und begibt sich auf einen Falschen Weg, gelangt
     man zu einem Border Control. Aufständige machen sich die Apokalypse zum Vorteil
     und verlangen einen Preis, damit du deine Reise weiterführen kannst. Münzen.</p>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Story and Gameplay
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 
 ---
