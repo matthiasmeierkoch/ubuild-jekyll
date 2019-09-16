@@ -87,10 +87,6 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: test
-  content: ''
-- template: detail-content
-  block: text-1
   headline: A Walk In The Dark
   content: <p><img src="https://lh4.googleusercontent.com/BzzJQde6-M1Iz71HGg3loouDERb4hVSzEeQE4pdyeaR8H292KSc_EZi30ccIBAkMBbnPtgkJWAf6ZYDcTkbku-4n5wcd_EfQMdWniUvFZBdYnGZPs99DW64SmrqFnes-ftRpeHX5"
     width="290" height="162"></p><p><strong>PC Game</strong></p><p>Dunkle Stimmung,
@@ -102,6 +98,12 @@ page_sections:
     width="291" height="164"></p><p><strong>PC Games<br></strong>Der 16-Bit Stil des
     Spiels. Farben und Stimmung der Umgebung. Wird von Links nach Rechts gespielt.</p>
   headline: InMost
+- template: detail-content
+  block: text-1
+  headline: I Am Legend
+  content: "<p><strong>Movie</strong></p><p>Sendet über Radiowellen sein Signal aus,
+    bis jemand seinen Standort entdeckt und er ein Antiserum gegen den Virus produzieren
+    kann.</p>"
 - template: detail-content
   block: text-1
   headline: The elevator Pitch
