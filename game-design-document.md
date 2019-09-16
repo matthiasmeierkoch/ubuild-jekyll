@@ -173,5 +173,9 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: detail-content
+  block: text-1
+  content: "<p>&lt;The Summary or TL;DR version of below&gt;</p>"
+  headline: Story (Brief)
 
 ---
