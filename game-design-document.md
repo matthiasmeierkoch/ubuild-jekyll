@@ -16,7 +16,7 @@ page_sections:
     button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Game Design Document </strong>\U0001F3AE"
+  headline: "<strong>Game Design Document</strong>"
   background_image: "/uploads/2019/09/14/jeremy-bishop-G9i_plbfDgk-unsplash (1).jpg"
   image:
     image: ''
