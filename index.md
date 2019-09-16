@@ -16,7 +16,7 @@ page_sections:
     button_text: View Prototype
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>N \U0001F9ED R T H</strong>"
+  headline: "<strong>N O R T H</strong>"
   content: "<strong>Das postapokalyptische Action-Erlebnis!</strong><br>Welche Richtung
     du einschlägst entscheidet über Leben und Tod – entscheide Weise. Töte Infizierte.
     Umgehe Gefahren. Bahne dir einen Weg zur möglichen Rettung der Menschheit."
