@@ -82,7 +82,9 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Built with ❤︎ by <a href="https://github.com/larsmaeder/" title="Lars Mäder">Lars
+    Mäder</a> &amp; <a href="https://github.com/matthiasmeierkoch" title="Matthias
+    Koch">Matthias Koch</a>
 menu:
   main:
     identifier: home
