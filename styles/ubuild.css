@@ -636,10 +636,10 @@ input.inverted::placeholder {
     margin: 1rem 0
 }
 
-.block-text-1 .text p:first-of-type {
+/* .block-text-1 .text p:first-of-type {
     margin: 0 0 16px;
     margin: 0 0 1rem
-}
+} */
 
 .block-text-1 .text p:last-of-type {
     margin: 16px 0 0;
