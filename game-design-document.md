@@ -256,5 +256,17 @@ page_sections:
   block: text-1
   content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
   headline: 'Object #1'
+- template: detail-content
+  block: text-1
+  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
+  headline: 'Object #2 '
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
 
 ---
