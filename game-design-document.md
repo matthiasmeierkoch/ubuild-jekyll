@@ -48,7 +48,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
-  content: "<h3>Gameplay Mechanic #1</h3><h4>Kompass</h4><p>ff</p><p></p><h3>Gameplay
+  content: "<h3>Gameplay Mechanic #1</h3><p><strong>Kompass</strong></p><p>ff</p><p></p><h3>Gameplay
     Mechanic #2</h3><p>jbk</p><h3>Gameplay Mechanic #3</h3><p>ff</p><h3>Gameplay Mechanic
     #4</h3><p>ff</p>"
 - template: detail-content
