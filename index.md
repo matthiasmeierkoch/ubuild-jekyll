@@ -54,7 +54,8 @@ page_sections:
   media:
     image: "/uploads/2019/09/16/strassensperre.png"
     alt_text: Strassensperre
-  headline: ''
+  headline: "<strong>Aufständige</strong> können dir den Weg versperren, bezahle sie
+    wenn du kannst oder beginne das Level erneut und versuche einen anderen Weg."
   content: ''
 - template: 1-column-text
   block: one-column-1
