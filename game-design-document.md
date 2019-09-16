@@ -193,5 +193,14 @@ page_sections:
   block: text-1
   content: "<p>&lt;The Summary version of below&gt;</p>"
   headline: Gameplay (Brief)
+- template: detail-content
+  block: text-1
+  content: "<p>&lt;Go into as much detail as needs be&gt;</p><p>&lt;Spare no detail&gt;</p><p>&lt;Combine
+    this with the game mechanics section above&gt;</p><p>Der Gamer muss Entscheidungen
+    treffen in welche Himmelsrichtung sich der Hauptcharakter bewegen soll, dabei
+    ist Norden nicht immer die beste entscheidung denn auf dem Weg haben aufständige
+    Strassensperren errichtet. Diese musst du bezahlen oder das Level von neuem beginnen
+    und eine andere Route versuchen, hier ist Geschicklichkeit gefragt.</p>"
+  headline: Gameplay (Detailed)
 
 ---
