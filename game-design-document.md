@@ -48,10 +48,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
-  content: "<h3>Gameplay Mechanic #1</h3><p><strong>Kompass</strong></p><p>Richtungsindikator.</p><h3>Gameplay
-    Mechanic #2</h3><p><strong>Zeit</strong></p><p>fff</p><h3>Gameplay Mechanic #3</h3><p><strong>Leben</strong></p><h3>Gameplay
-    Mechanic #4</h3><p><strong>Münzen</strong></p><h3>Gameplay Mechanic #5</h3><p><strong>Waffen</strong></p><h3>Gameplay
-    Mechanic #5</h3><p><strong>Gegner</strong></p>"
+  content: "<h3>Gameplay Mechanic <br>(Kompass)</h3><p>Richtungsindikator.</p><h3>Gameplay
+    Mechanic #2<br>(Zeit<strong>)</strong></h3><p>Richtungsindikator.</p><h3>Gameplay
+    Mechanic #3<br>Leben</h3><p>Leben</p><h3>Gameplay Mechanic #4<br>Münzen</h3><p>Münzen</p><h3>Gameplay
+    Mechanic #5<br>Waffen</h3><p>Waffen</p><h3>Gameplay Mechanic #5<br>Gegner</h3><p>Gegner</p>"
 - template: detail-content
   block: text-1
   headline: Targeted platforms
