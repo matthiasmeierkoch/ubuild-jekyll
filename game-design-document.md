@@ -232,5 +232,11 @@ page_sections:
     Character on Injured / Death sound list</p><p>- Example 1</p><p>- Example 2</p><p>-
     etc.</p>"
   headline: Sound
+- template: detail-content
+  block: text-1
+  content: "<p>- Character Scripts (Player Pawn/Player Controller)</p><p>- Ambient
+    Scripts (Runs in the background)</p><p>- Example</p><p>- NPC Scripts</p><p>- Example</p><p>-
+    etc.</p><p><br></p>"
+  headline: Code
 
 ---
