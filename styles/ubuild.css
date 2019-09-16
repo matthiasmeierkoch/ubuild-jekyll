@@ -700,8 +700,9 @@ input.inverted::placeholder {
         margin-bottom: 0
     }
     .block-feature-1 .column.media {
-        -ms-flex: 0 0 calc(60% - 2rem);
-        flex: 0 0 calc(60% - 2rem)
+        -ms-flex: 0 0 calc(60% - 10rem);
+        flex: 0 0 calc(60% - 10rem);
+        padding-left: 20rem;
     }
 }
 
