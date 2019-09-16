@@ -40,11 +40,11 @@ page_sections:
   content: "<p><strong>N O R T H</strong> ist ein postapokalyptisches Action-Game,
     welches sich durch eine Mischung von dunklen/kalten bis hin zu warmen/hellen Szenen
     auszeichnet. Ein anonymer Funkspruch, übermittelt aus dem Norden, verspricht mit
-    einem Heilmittel gegen den Virus. Als Überlebender gehst du der Spur nach. Um
-    in den Norden zugelangen ist eine Reise durch zahlreiche Länder anzutreten. Fast
-    in jeder Ecke lauern zahlreiche Gefahren und Infizierte. Schnelligkeit und Geschick
-    ist gefragt, ansonsten begibt man sich auf eine aussichtslose Reise von Süden
-    nach Norden.</p>"
+    einem Heilmittel gegen den Virus. Als Überlebender greift man nach jedem Strohhalm
+    und geht der Spur nach. Um in den Norden zu gelangen ist eine Reise durch zahlreiche
+    Länder anzutreten. Fast in jeder Ecke lauern zahlreiche Gefahren und Infizierte.
+    Schnelligkeit und Geschick ist gefragt, ansonsten begibt man sich auf eine fast
+    schon unlösbar wirkende Reise von Süden nach Norden.</p>"
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
