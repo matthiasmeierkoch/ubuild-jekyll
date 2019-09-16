@@ -226,7 +226,11 @@ page_sections:
   block: text-1
   content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
     2</p><p>- Level 3</p><p>- etc.</p><p>- Inside</p><p>- Level 1</p><p>- Level 2</p><p>-
-    Level 3</p><p>- etc.</p>"
+    Level 3</p><p>- etc.</p><p>- Sound List (Player)</p><p>- Character Movement Sound
+    List</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>- Character Hit /
+    Collision Sound list</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>-
+    Character on Injured / Death sound list</p><p>- Example 1</p><p>- Example 2</p><p>-
+    etc.</p>"
   headline: Sound
 
 ---
