@@ -266,7 +266,7 @@ page_sections:
   content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: 'Object #4'
+  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
 
 ---
