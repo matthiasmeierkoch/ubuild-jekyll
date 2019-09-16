@@ -212,7 +212,9 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  headline: ''
-  content: ''
+  headline: 2D
+  content: "<p>- Textures</p><p>- Environment Textures</p><p>- Heightmap data (If
+    applicable)</p><p>- List required data required - Example: DEM data of the entire
+    UK.</p><p>- Etc.</p><p><br></p>"
 
 ---
