@@ -48,9 +48,8 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
-  content: "<ul><li><p>- &lt;Gameplay Mechanic #1&gt;</p></li><li><p>- &lt;Gameplay
-    Mechanic #2&gt;</p></li><li><p>- &lt;Gameplay Mechanic #3&gt;</p></li><li><p>-
-    &lt;Gameplay Mechanic #4&gt;</p></li></ul>"
+  content: "<h6>Gameplay Mechanic #1</h6><p>lnlnl</p><h6>Gameplay Mechanic #2</h6><p>jbk</p><h6>Gameplay
+    Mechanic #3</h6><h6>Gameplay Mechanic #4</h6>"
 - template: detail-content
   block: text-1
   headline: Targeted platforms
