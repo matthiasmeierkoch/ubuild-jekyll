@@ -66,17 +66,15 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Project Scope
-  content: "<p><strong>&lt;Game Time Scale&gt;</strong></p><ul><li><p>Cost? (How much
-    will it cost?)</p></li><li><p>Time Scale (How long will it take to make this game?)</p></li></ul><p><strong>&lt;Team
-    Size&gt;</strong></p><ol><li><p>&lt;Core Team&gt;</p></li></ol><ul><li><p>Team
-    Member name?</p><ul><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ
-    them full time or part time&gt;</p></li><li><p>etc.</p></li><li><p>(List as many
-    core team members as you need to)</p></li></ul></li></ul><ul><li><p>&lt;Marketing
-    Team&gt;</p><ul><li><p>Team Member name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost
-    to employ them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List
-    as many marketing team members as you need to)</p></li></ul></li></ul><p><strong>&lt;Licenses
-    / Hardware / Other Costs&gt;</strong></p><p>text</p><p><strong>&lt;Total Costs
-    with breakdown&gt;</strong></p><p>text</p>"
+  content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Cost? (How much will
+    it cost?)</p></li><li><p>Time Scale (How long will it take to make this game?)</p></li></ul><h3><strong>Team
+    Size</strong></h3><h4><strong>Core Team</strong></h4><h5>Team Member name?</h5><ul><li><p>What
+    does he/she do?</p></li><li><p>&lt;Cost to employ them full time or part time&gt;</p></li><li><p>etc.</p></li><li><p>(List
+    as many core team members as you need to)</p></li></ul><h5>Marketing Team</h5><ul><li><p>Team
+    Member name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ
+    them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many
+    marketing team members as you need to)</p></li></ul><h3><strong>Licenses / Hardware
+    / Other Costs</strong></h3><p>text</p><h3><strong>Total Costs with breakdown</strong></h3><p>text</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
