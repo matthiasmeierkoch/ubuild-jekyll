@@ -189,5 +189,9 @@ page_sections:
     ausweichen.</p><p>In den Levels findet der Hauptcharakter Münzen und Waffen welche
     er dann verwenden kann um seinen Weg durchs Level zu erkämpfen.</p>"
   headline: Story (Detailed)
+- template: detail-content
+  block: text-1
+  content: "<p>&lt;The Summary version of below&gt;</p>"
+  headline: Gameplay (Brief)
 
 ---
