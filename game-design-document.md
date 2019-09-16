@@ -222,5 +222,11 @@ page_sections:
     Character #3</p><p>- etc.</p><p>- Environmental Art Lists</p><p>- Example #1</p><p>-
     Example #2</p><p>- Example #3</p><p>- etc.</p>"
   headline: 3D
+- template: detail-content
+  block: text-1
+  content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
+    2</p><p>- Level 3</p><p>- etc.</p><p>- Inside</p><p>- Level 1</p><p>- Level 2</p><p>-
+    Level 3</p><p>- etc.</p>"
+  headline: Sound
 
 ---
