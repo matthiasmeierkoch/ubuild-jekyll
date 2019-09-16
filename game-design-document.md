@@ -37,10 +37,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Theme / Setting / Genre
-  content: "<p>North ist ein Postapokalypse Action-Game. Dunkle und kalte Szenen Als
-    Überlebender ist eine Reise durch zahlreiche Länder anzutreten. Gespickt mit Gefahren
-    und Infizierten begibt man sich auf eine fast schon aussichtslose Reise von Süden
-    nach Norden.</p>"
+  content: "<p><strong>N O R T H</strong> ist ein postapokalyptisches Action-Game,
+    welches sich durch eine Mischung von dunklen/kalten bis hin zu warmen/hellen Szenen
+    auszeichnet. Als Überlebender auf der Suche nach einer Lösung zur Rettung der
+    Welt, ist eine Reise durch zahlreiche Länder anzutreten um in den Norden zugelangen.
+    Fast in jeder Ecke lauern zahlreiche Gefahren und Infizierte. Schnelligkeit und
+    Geschick ist gefragt, ansonsten begibt man sich auf eine aussichtslose Reise von
+    Süden nach Norden.</p>"
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
