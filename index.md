@@ -42,10 +42,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: "<strong>Bekämpfe die Gegner </strong>doch lass dich dabei nicht infizieren."
+  content: Um in den Norden zu gelangen musst du Gegner bekämpfen, auf dem Weg findest
+    du Waffen, lass dich dabei nicht infizieren.
   media:
     image: "/uploads/2019/09/16/fight.png"
     alt_text: Gegner
