@@ -89,8 +89,9 @@ page_sections:
   block: text-1
   headline: A Walk In The Dark
   content: <p><img src="https://lh4.googleusercontent.com/BzzJQde6-M1Iz71HGg3loouDERb4hVSzEeQE4pdyeaR8H292KSc_EZi30ccIBAkMBbnPtgkJWAf6ZYDcTkbku-4n5wcd_EfQMdWniUvFZBdYnGZPs99DW64SmrqFnes-ftRpeHX5"
-    width="290" height="162"></p><p>PC Game</p><p>Die Stimmung und dunklen, kalten
-    und gleichzeitig leuchtenden Farben passen zum kalten Norden.</p><p><br></p>
+    width="290" height="162"></p><p><strong>PC Game</strong></p><p>Dunkle Stimmung,
+    kalte und gleichzeitig leuchtende Farben. 2D, es geht nur in eine Richtung, nach
+    rechts.</p><p><br></p>
 - template: detail-content
   block: text-1
   content: <p><img src="https://lh6.googleusercontent.com/FZ1lhcTryTOv1Igr1Lh8jXSjy7vC1mGjegbDCOuqTMIorpH2E-ZbSgeBdbU1v1yb01ONwc9VqOq4x6UB7G166bqL3Tisbz4gVjoJ5xpTteluYeZ3-Y3qbmNfS2P-Qy0_M1bVJhLv"
