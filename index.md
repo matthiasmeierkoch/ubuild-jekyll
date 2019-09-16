@@ -42,9 +42,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Bekämpfe die Gegner </strong>doch lass dich dabei nicht infizieren."
-  content: Um in den Norden zu gelangen musst du Gegner bekämpfen, auf dem Weg findest
-    du Waffen, lass dich dabei nicht infizieren.
+  headline: "<strong>Bekämpfe die Gegner </strong>doch lass dich dabei nicht infizieren.
+    Um in den Norden zu gelangen musst du Gegner bekämpfen, auf dem Weg findest du
+    Waffen, lass dich dabei nicht infizieren."
+  content: ''
   media:
     image: "/uploads/2019/09/16/fight.png"
     alt_text: Gegner
