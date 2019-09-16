@@ -152,5 +152,11 @@ page_sections:
   content: "<p>- &lt;Details&gt;</p><p>Schatztruhen, Münzen</p><p>- &lt;How it works&gt;</p><p>Schatztruhen
     beinhalten viele Münzen. Münzen werden im Laufe des Spiels gesammelt, trifft man
     eine falsche Entscheidung kann man sich mittel Münzen eine «zweite Chance» erkaufen.</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #6'
+  content: "<p>- &lt;Details&gt;</p><p>Power Ups, Waffen</p><p>- &lt;How it works&gt;</p><p>Waffen
+    und Power-Ups beschaffen einen Vorteil oder können den Angriff des Charakters
+    stärken. Infiszierte können so schneller ausgeschalten werden.</p>"
 
 ---
