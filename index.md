@@ -30,11 +30,12 @@ page_sections:
   background_image: "/uploads/2019/09/14/resul-DbwYNr8RPbg-unsplash (1).jpg"
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  media_alignment: Right
+  headline: "<strong>Entkomme dem Virus </strong>- Du musst dich für einen Weg entscheiden
+    um dem Virus zu entkommen, der einzige Ort an dem du vor Ihm sicher bist ist im
+    Norden."
+  content: "<br>Der Weg nach Norden ist voller Gegner und Aufständigen, überlege dir
+    also gut für welche Richtung du dich entscheidest."
   media:
     image: "/uploads/2019/09/16/Desicion.png"
     alt_text: Entscheidung
