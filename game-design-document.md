@@ -146,5 +146,11 @@ page_sections:
   headline: 'Core Gameplay Mechanic #4'
   content: "<p>- &lt;Details&gt;</p><p>Infizierte</p><p>- &lt;How it works&gt;</p><p>Greifen
     den Hauptcharakter an. Können ihn töten und so das Spiel beenden.</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #5'
+  content: "<p>- &lt;Details&gt;</p><p>Schatztruhen, Münzen</p><p>- &lt;How it works&gt;</p><p>Schatztruhen
+    beinhalten viele Münzen. Münzen werden im Laufe des Spiels gesammelt, trifft man
+    eine falsche Entscheidung kann man sich mittel Münzen eine «zweite Chance» erkaufen.</p>"
 
 ---
