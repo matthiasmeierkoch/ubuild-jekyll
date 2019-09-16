@@ -21,7 +21,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  content: ''
+  content: "\U0001F3AE"
   cta:
     enabled: false
     url: ''
