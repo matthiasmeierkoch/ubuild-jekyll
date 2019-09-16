@@ -39,7 +39,7 @@ page_sections:
   headline: Theme / Setting / Genre
   content: "<p><strong>N O R T H</strong> ist ein postapokalyptisches Action-Game,
     welches sich durch eine Mischung von dunklen/kalten bis hin zu warmen/hellen Szenen
-    auszeichnet. Als Überlebender auf der Suche nach einer Lösung zur Rettung der
+    auszeichnet. Als Überlebender, auf der Suche nach einer Lösung zur Rettung der
     Welt, ist eine Reise durch zahlreiche Länder anzutreten um in den Norden zugelangen.
     Fast in jeder Ecke lauern zahlreiche Gefahren und Infizierte. Schnelligkeit und
     Geschick ist gefragt, ansonsten begibt man sich auf eine aussichtslose Reise von
