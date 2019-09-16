@@ -141,5 +141,10 @@ page_sections:
   headline: 'Core Gameplay Mechanic #3'
   content: "<p>- &lt;Details&gt;</p><p>Run Button</p><p>- &lt;How it works&gt;</p><p>Lässt
     den Spieler rennen</p>"
+- template: detail-content
+  block: text-1
+  headline: 'Core Gameplay Mechanic #4'
+  content: "<p>- &lt;Details&gt;</p><p>Infizierte</p><p>- &lt;How it works&gt;</p><p>Greifen
+    den Hauptcharakter an. Können ihn töten und so das Spiel beenden.</p>"
 
 ---
