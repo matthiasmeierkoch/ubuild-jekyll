@@ -177,5 +177,17 @@ page_sections:
   block: text-1
   content: "<p>&lt;The Summary or TL;DR version of below&gt;</p>"
   headline: Story (Brief)
+- template: detail-content
+  block: text-1
+  content: "<p>&lt;Go into as much detail as needs be&gt;</p><p>&lt;Spare no detail&gt;</p><p>&lt;Use
+    Mind Mapping software to get your point across&gt;</p><p>Der Hauptcharakter lebt
+    im Süden in einer Welt die von einem bösartigen Virus befallen ist. Eines Tages
+    empfängt er ein Funksignal aus dem Norden, in diesem erfährt er dass der Virus
+    im Norden nicht bestehen kann, also macht er sich auf den Weg in den Norden und
+    verlässt sein sicheres Versteck im Süden.</p><p>Auf dem Weg muss er verschiedene
+    Länder durchqueren (Levels) und dabei muss er gegen Gegner kämpfen und Aufständigen
+    ausweichen.</p><p>In den Levels findet der Hauptcharakter Münzen und Waffen welche
+    er dann verwenden kann um seinen Weg durchs Level zu erkämpfen.</p>"
+  headline: Story (Detailed)
 
 ---
