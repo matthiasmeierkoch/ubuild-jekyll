@@ -48,6 +48,14 @@ page_sections:
   media:
     image: "/uploads/2019/09/16/fight.png"
     alt_text: Gegner
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2019/09/16/strassensperre.png"
+    alt_text: Strassensperre
+  headline: ''
+  content: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
