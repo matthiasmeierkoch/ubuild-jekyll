@@ -17,7 +17,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: "<strong>N O R T H</strong>"
-  content: "<strong>Das postapokalyptische action Erlebnis!</strong><br>Welche Richtung
+  content: "<strong>Das postapokalyptische Action Erlebnis!</strong><br>Welche Richtung
     du einschlägst entscheidet über Leben und Tod – entscheide Weise. Töte Infizierte.
     Umgehe Gefahren. Bahne dir einen Weg zur möglichen Rettung der Menschheit."
   cta:
