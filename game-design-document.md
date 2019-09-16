@@ -252,5 +252,9 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: detail-content
+  block: text-1
+  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
+  headline: 'Object #1'
 
 ---
