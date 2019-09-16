@@ -67,10 +67,10 @@ page_sections:
   block: text-1
   headline: Project Scope
   content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Cost? (How much will
-    it cost?)</p></li><li><p>Time Scale (How long will it take to make this game?)</p></li></ul><h3><strong>Team
-    Size</strong></h3><h4><strong>Core Team</strong></h4><h5>Team Member name?</h5><ul><li><p>What
+    it cost?)</p></li><li><p>Time Scale (How long will it take to make this game?)</p><p></p></li></ul><h3><strong>Team
+    Size</strong></h3><p><strong>Core Team</strong></p><ul><li><p>Team Member name?</p></li><li><p>What
     does he/she do?</p></li><li><p>&lt;Cost to employ them full time or part time&gt;</p></li><li><p>etc.</p></li><li><p>(List
-    as many core team members as you need to)</p></li></ul><h5>Marketing Team</h5><ul><li><p>Team
+    as many core team members as you need to)</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team
     Member name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ
     them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many
     marketing team members as you need to)</p></li></ul><h3><strong>Licenses / Hardware
