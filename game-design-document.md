@@ -67,7 +67,7 @@ page_sections:
   block: text-1
   headline: Project Scope
   content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 50´000–150´000
-    CHF</p></li><li><p>6 Monate</p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
+    CHF</p></li><li><p>6 Monate</p><p></p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
     Team</strong></p><ul><li><p>Team Member name?</p></li><li><p>What does he/she
     do?</p></li><li><p>&lt;Cost to employ them full time or part time&gt;</p></li><li><p>etc.</p></li><li><p>(List
     as many core team members as you need to)</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team
