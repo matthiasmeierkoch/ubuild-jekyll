@@ -71,7 +71,7 @@ page_sections:
   content: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Level's -</strong> Erreichst du das Ende des Levels ? dann bekommst
     du einen Gegenstand oder Münzen welche dir im nächsten Land behilflich sein könnten. "
   content: ''
