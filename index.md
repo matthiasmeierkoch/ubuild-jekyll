@@ -51,7 +51,7 @@ page_sections:
     alt_text: Gegner bekämpfen
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   media:
     image: "/uploads/2019/09/19/Kampf_Gewonnen.png"
     alt_text: Sammeln
@@ -69,6 +69,14 @@ page_sections:
     bezahle sie wenn du kannst oder beginne das Level erneut und versuche einen anderen
     Weg."
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
