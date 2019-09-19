@@ -75,7 +75,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Project Scope
-  content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 150´000–200´000
+  content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 200´000–250´000
     CHF</p></li><li><p>6–8 Monate</p><p></p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
     Team</strong></p><ul><li><p><strong>Programmierer</strong><br>Tätigkeit: Programmer<br>Durchschnittslohn:
     36´000</p></li><li><p><strong>Designer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
