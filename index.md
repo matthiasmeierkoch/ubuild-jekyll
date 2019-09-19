@@ -61,7 +61,7 @@ page_sections:
   content: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   media:
     image: "/uploads/2019/09/19/Rebellen.png"
     alt_text: Strassensperre
