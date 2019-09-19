@@ -25,7 +25,7 @@ page_sections:
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North-Game?node-id=9%3A5&viewport=247%2C764%2C0.249214306473732&scaling=scale-down
     button_text: Prototype
   image:
-    image: "/uploads/2019/09/16/heroimage.gif"
+    image: "/uploads/2019/09/19/north_gif_2.gif"
     alt_text: Prototype Screenshot aus dem Spiel
   background_image: "/uploads/2019/09/14/resul-DbwYNr8RPbg-unsplash (1).jpg"
 - template: content-feature
