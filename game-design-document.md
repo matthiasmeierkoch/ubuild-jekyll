@@ -218,7 +218,8 @@ page_sections:
     Vorteil. Trifft man eine falsche Entscheidung und begibt sich so auf einen falschen
     Weg, tritt man in eine Falle. Aufständige verlangen einen Preis, damit du deine
     Reise weiterführen kannst. Entweder man bezahlt mit Münzen oder man kämpft um
-    sein Überleben.</p>"
+    sein Überleben.</p><p>Infizierte stehen dir im Weg und behindern deine Weiterreise.
+    Kämpfe um dein Überleben. Bezwingst du sie, erhältst du Münzen oder Waffen.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
