@@ -255,7 +255,11 @@ page_sections:
   headline: Story (Detailed)
 - template: detail-content
   block: text-1
-  content: "<p>&lt;The Summary version of below&gt;</p>"
+  content: "<p>Der Gamer entscheidet, in welche Himmelsrichtung sich der Hauptcharakter
+    bewegen soll. Dabei ist der Norden nicht immer die Beste Entscheidung, denn auf
+    dem Weg haben aufständige Überlebende Strassensperren errichtet. Bezahlt wird
+    mit Münzen oder mit einem Kampf über Leben und Tod. Finde Waffen und kämpfe dich
+    nach Norden durch.</p>"
   headline: Gameplay (Brief)
 - template: detail-content
   block: text-1
