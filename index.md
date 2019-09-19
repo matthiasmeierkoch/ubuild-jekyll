@@ -51,16 +51,6 @@ page_sections:
     alt_text: Gegner bekämpfen
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2019/09/19/Rebellen.png"
-    alt_text: Strassensperre
-  headline: "<strong>Achtung, Aufständige</strong> können dir den Weg versperren,
-    bezahle sie wenn du kannst oder beginne das Level erneut und versuche einen anderen
-    Weg."
-  content: ''
-- template: content-feature
-  block: feature-1
   media_alignment: Left
   media:
     image: "/uploads/2019/09/19/Kampf_Gewonnen.png"
@@ -68,6 +58,16 @@ page_sections:
   headline: "<strong>Münzen sammeln - </strong>Gewinnst du im Kampf gegen die Gegner
     so können diese Waffen oder Münzen fallen lassen, diese können dir später noch
     hilfreich werden."
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2019/09/19/Rebellen.png"
+    alt_text: Strassensperre
+  headline: "<strong>Achtung, Aufständige</strong> können dir den Weg versperren,
+    bezahle sie wenn du kannst oder beginne das Level erneut und versuche einen anderen
+    Weg."
   content: ''
 - template: 1-column-text
   block: one-column-1
