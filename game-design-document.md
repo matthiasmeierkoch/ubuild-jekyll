@@ -121,13 +121,13 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: I Am Legend
-  content: "<p><strong>Movie</strong></p><p><strong>Story: </strong>Ein Virus verwandelt
-    die Menschen in blutdurstige Vampire. Nur ein kleiner Teil der Bevölkerung, darunter
-    der ehemalige Militärwissenschaftler Robert Neville, ist gegen das gentechnisch
-    veränderte Virus immun. Als einzig verbliebener Mensch in Manhattan versucht er
-    mit Hilfe seines eigenen Blutes, ein Gegenmittel zu finden. Doch der letzte Mensch
-    auf der Erde ist nicht allein: Lichtscheue Mutanten beobachten ihn und warten
-    ab, bis er eines Tages einen Fehler macht.</p>"
+  content: "<p><strong>Movie</strong></p><p><strong>Inspiration, Story: </strong>Ein
+    Virus verwandelt die Menschen in blutdurstige Vampire. Nur ein kleiner Teil der
+    Bevölkerung, darunter der ehemalige Militärwissenschaftler Robert Neville, ist
+    gegen das gentechnisch veränderte Virus immun. Als einzig verbliebener Mensch
+    in Manhattan versucht er mit Hilfe seines eigenen Blutes, ein Gegenmittel zu finden.
+    Doch der letzte Mensch auf der Erde ist nicht allein: Lichtscheue Mutanten beobachten
+    ihn und warten ab, bis er eines Tages einen Fehler macht.</p>"
 - template: detail-content
   block: text-1
   headline: The elevator Pitch
