@@ -41,14 +41,14 @@ page_sections:
     alt_text: Entscheidung
 - template: content-feature
   block: feature-1
-  media_alignment: Left
+  media_alignment: Right
   headline: "<strong>Bekämpfe die Gegner </strong>doch lass dich dabei nicht infizieren.
     Um in den Norden zu gelangen musst du Gegner bekämpfen, auf dem Weg findest du
     Waffen, lass dich dabei nicht infizieren."
-  content: ''
   media:
-    image: "/uploads/2019/09/19/Gegner_bekämpfen-1.png"
+    image: "/uploads/2019/09/19/Gegner.png"
     alt_text: Gegner bekämpfen
+  content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
