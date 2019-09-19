@@ -182,7 +182,10 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Gameplay Mechanic #3 (Leben)'
-  content: "<h3>Details</h3><p>jkjb</p><h3>How it works</h3>"
+  content: "<p><strong>Details</strong></p><p>Gesundheitsindikator. Wird bei einem
+    Kampf eingeblendet.</p><p><strong>How it works</strong></p><p>Wird ein Kampf gestartet,
+    erscheint ein Indikator für das eigene Leben. Wird man verwundet oder im Kampf
+    getroffen, sinkt dieser Indikator. Erreicht dieser Null, stirbt der Charakter.</p>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #4'
