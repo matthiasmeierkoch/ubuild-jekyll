@@ -312,16 +312,10 @@ page_sections:
   headline: Sound
 - template: detail-content
   block: text-1
-  content: "<p>- Character Scripts (Player Pawn/Player Controller)</p><p>- Ambient
-    Scripts (Runs in the background)</p><p>- Example</p><p>- NPC Scripts</p><p>- Example</p><p>-
-    etc.</p><p><br></p>"
+  content: <p>Animationen lassen sich innerhalb des Figma-Prototype live anschauen:</p><p><a
+    href="https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North---Game?node-id=9%3A5&amp;viewport=315%2C718%2C0.2886125147342682&amp;scaling=scale-down"
+    title="">Figma-Prototype</a></p>
   headline: Code / Animation
-- template: detail-content
-  block: text-1
-  content: "<p>- Environment Animations</p><p>- Example</p><p>- etc.</p><p>- Character
-    Animations</p><p>- Player</p><p>- Example</p><p>- etc.</p><p>- NPC</p><p>- Example</p><p>-
-    etc.</p>"
-  headline: Animation
 - template: content-feature
   block: feature-1
   media_alignment: Right
