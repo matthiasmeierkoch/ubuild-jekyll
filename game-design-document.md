@@ -87,14 +87,14 @@ page_sections:
     Manager<br></strong>Tätigkeit: Übernimmt die Planung, achtet auf die Einhaltung
     der Timeline etc., setzt Milestones<br>Durchschnittslohn: 7´000 CHF / Monat</p></li><li><p><strong>UX/UI-Designer<br></strong>Tätigkeit:
     User Interface und User Experience, führt User Testings durch, Gameflow<br>Durchschnittslohn:
-    5´500 CHF / Monat</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team
-    Member name?<br>Tätigkeit: Erstellung einer Vision und eines langfristigen Marketingplans;
-    Strategische Entwicklung aller Marketingaktivitäten; Budgetverteilung über mehrere
-    Plattformen, Märkte und Kanäle hinweg; Führung und Coaching des Marketingteams
+    5´500 CHF / Monat</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p><strong>Marketing
+    Manager</strong><br>Tätigkeit: Erstellung einer Vision und eines langfristigen
+    Marketingplans; Strategische Entwicklung aller Marketingaktivitäten; Budgetverteilung
+    über mehrere Plattformen, Märkte und Kanäle hinweg; Führung und Coaching des Marketingteams
     des Unternehmens</p></li><li><p>Durchschnittslohn: 9´000 CHF / Monat</p><p></p></li></ul><h3><strong>Licenses
-    / Hardware / Other Costs</strong></h3><ul><li><p>Music/Sounds</p></li><li><p>Assets</p></li><li><p>Apple
-    Developer Account</p></li><li><p>Hardware Testing Devices</p><p></p></li></ul><h3><strong>Total
-    Costs with breakdown</strong></h3><p>100´000–150´000 CHF</p>"
+    / Hardware / Other Costs</strong></h3><ul><li><p>Developer Accounts</p></li><li><p>Hardware
+    Testing Devices</p></li><li><p>User Testings</p><p></p></li></ul><h3><strong>Total
+    Costs with breakdown</strong></h3><p>200´000–250´000 CHF</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
