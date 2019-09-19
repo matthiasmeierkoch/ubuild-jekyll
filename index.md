@@ -31,10 +31,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Entkomme dem Virus </strong>- Du musst dich für einen Weg entscheiden
-    um dem Virus zu entkommen, der einzige Ort an dem du vor Ihm sicher bist ist im
-    Norden. Der Weg nach Norden ist voller Gegner und Aufständigen, überlege dir also
-    gut für welche Richtung du dich entscheidest."
+  headline: "<strong>Entkomme dem Virus </strong>- Du musst entscheiden welchen Weg
+    du einschlägst. Der einzige Ort an dem du sicher bist, ist im kalten Norden. Doch
+    dein Weg zur Hoffnung ist voller Infizierten und aufständigen Überlebenden, überlege
+    dir also gut, für welche Richtung du dich entscheidest."
   content: ''
   media:
     image: "/uploads/2019/09/19/Entscheidung_1.png"
