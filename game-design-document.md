@@ -230,7 +230,11 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  content: "<p>&lt;The Summary or TL;DR version of below&gt;</p>"
+  content: "<p>Ein anonymer Funkspruch, übermittelt aus dem Norden, verspricht mit
+    einem Heilmittel gegen den Virus. Als Überlebender greift man nach jedem Strohhalm
+    und geht der Spur nach. Um in den Norden zu gelangen ist eine Reise durch zahlreiche
+    Länder anzutreten. Fast in jeder Ecke lauern zahlreiche Gefahren und Infizierte.
+    </p>"
   headline: Story (Brief)
 - template: detail-content
   block: text-1
