@@ -315,7 +315,7 @@ page_sections:
   content: "<p>- Character Scripts (Player Pawn/Player Controller)</p><p>- Ambient
     Scripts (Runs in the background)</p><p>- Example</p><p>- NPC Scripts</p><p>- Example</p><p>-
     etc.</p><p><br></p>"
-  headline: Code
+  headline: Code / Animation
 - template: detail-content
   block: text-1
   content: "<p>- Environment Animations</p><p>- Example</p><p>- etc.</p><p>- Character
