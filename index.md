@@ -63,9 +63,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   media:
-    image: "/uploads/2019/09/19/Rebellen.png"
+    image: "/uploads/2019/09/19/Kampf_Gewonnen.png"
     alt_text: Rebellen
-  headline: ''
+  headline: "<strong>Münzen sammeln - </strong>Gewinnst du im Kampf gegen die Gegner
+    so können diese Waffen oder Münzen fallen lassen, diese können dir später noch
+    hilfreich werden."
   content: ''
 - template: 1-column-text
   block: one-column-1
