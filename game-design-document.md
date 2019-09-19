@@ -196,10 +196,12 @@ page_sections:
     man mit Münzen bezahlen oder einen Kampf führen.</p>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #5'
-  content: "<p>- &lt;Details&gt;</p><p>Schatztruhen, Münzen</p><p>- &lt;How it works&gt;</p><p>Schatztruhen
-    beinhalten viele Münzen. Münzen werden im Laufe des Spiels gesammelt, trifft man
-    eine falsche Entscheidung kann man sich mittel Münzen eine «zweite Chance» erkaufen.</p>"
+  headline: 'Gameplay Mechanic #5 (Waffen)'
+  content: "<p><strong>Details</strong></p><p>Verschiedene Waffen. Besitzen unterschiedlich
+    grosse Schadensverursachung.</p><p><strong>How it works</strong></p><p>Waffen
+    können im InGame-Store gekauft werden. Gewinnt man einen Kampf, lassen Gegner
+    ihren Inventar fallen, darunter können sich auch Waffen befinden. Am Ende eines
+    Levels kann eine stärkere Waffe bereitliegen.</p>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #6'
