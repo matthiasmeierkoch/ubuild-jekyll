@@ -67,9 +67,9 @@ page_sections:
   media:
     image: "/uploads/2019/09/19/Rebellen.png"
     alt_text: Strassensperre
-  headline: "<strong>Achtung, Aufständige</strong> können dir den Weg versperren,
-    bezahle sie wenn du kannst oder beginne das Level erneut und versuche einen anderen
-    Weg."
+  headline: "<strong>Achtung, Aufständige!</strong> Tappst du in ihre Falle, versperren
+    sie dir den Weg. Du hast zwei Möglichkeiten, bezahle mit Münzen oder lass deine
+    Muskeln spielen und kämpfe um Leben und Tod."
   content: ''
 - template: content-feature
   block: feature-1
