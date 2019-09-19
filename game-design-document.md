@@ -163,11 +163,12 @@ page_sections:
     #3&gt;</p></li><li><p>&lt;Reason #4&gt;</p></li><li><p>&lt;etc.&gt;</p></li></ul>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #1'
-  content: "<p><strong>Details</strong></p><p>Steuerung (Vorwärts, Links, Rechts,
-    Rückwärts)</p><p><strong>How it works</strong></p><p>Der Charakter lässt sich
-    mit einem Joystick auf dem Display steuern. Dabei sind alle Richtungen möglich.
-    Wird ein neuer Weg bzw. Richtungswechsel eingeschlagen, kann man sich nicht mehr
+  headline: 'Core Gameplay Mechanic #1 (Kompass)'
+  content: "<p><strong>Details</strong></p><p>Richtungsindikator. Auswahl von Buttons
+    zwischen Norden, Osten, Süden und Westen.</p><p><strong>How it works</strong></p><p>Kommt
+    der Charakter an eine Verzweigung, lässt sich mittels Buttons auf dem Display
+    die Richtung steuern. Dabei sind alle Richtungen möglich, nur nicht zurück. Wird
+    also ein neuer Weg bzw. Richtungswechsel eingeschlagen, kann man sich nicht mehr
     zurück bewegen.</p>"
 - template: detail-content
   block: text-1
