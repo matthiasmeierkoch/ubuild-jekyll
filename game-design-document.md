@@ -48,13 +48,14 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Core Gameplay Mechanics Brief
-  content: "<h3>Gameplay Mechanic #1<br>(Kompass)</h3><p>Richtungsindikator</p><h3>Gameplay
-    Mechanic #2<br>(Zeit<strong>)</strong></h3><p>Zeitindikator für ein Level</p><h3>Gameplay
-    Mechanic #3<br>Leben</h3><p>Anzahl Leben</p><h3>Gameplay Mechanic #4<br>Münzen</h3><p>Anzahl
-    Münzen</p><h3>Gameplay Mechanic #5<br>Waffen</h3><p>Verschiedene Waffen mit unterschiedlicher
-    Schadensverursachung.</p><h3>Gameplay Mechanic #6<br>Power-Ups</h3><p>Vorteil
-    verschaffende Power-Ups</p><h3>Gameplay Mechanic #7<br>Gegner</h3><p>Infizierte
-    oder Aufständige</p>"
+  content: "<h3>Gameplay Mechanic #1<br>(Kompass)</h3><p>Richtungsindikator. Auswahl
+    zwischen Norden, Osten, Süden und Westen.</p><h3>Gameplay Mechanic #2<br>(Zeit<strong>)</strong></h3><p>Zeitindikator
+    um ein Land (Level) zu bestreiten.</p><h3>Gameplay Mechanic #3<br>(Leben)</h3><p>Gesundheitsindikator.
+    Wird bei einem Kampf eingeblendet.</p><h3>Gameplay Mechanic #4<br>(Münzen)</h3><p>Anzahl
+    Münzen. </p><h3>Gameplay Mechanic #5<br>(Waffen)</h3><p>Verschiedene Waffen. Besitzen
+    unterschiedlich grosse Schadensverursachung.</p><h3>Gameplay Mechanic #6<br>(Power-Ups)</h3><p>Vorteil
+    verschaffende Power-Ups.</p><h3>Gameplay Mechanic #7<br>(Gegner)</h3><p>Infizierte
+    oder aufständige Überlebende.</p>"
 - template: detail-content
   block: text-1
   headline: Targeted platforms
