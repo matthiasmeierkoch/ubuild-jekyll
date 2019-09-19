@@ -298,7 +298,7 @@ page_sections:
     <img src="/uploads/2019/09/19/rivertopleft64x64transparent-winter.gif"> <img src="/uploads/2019/09/19/tree96x96transparentanimated-winter.gif"><img
     src="/uploads/2019/09/19/e051a1c0dbed245a6fed4d51688d0572.png"> <img src="/uploads/2019/09/19/UniformFluffyCrownofthornsstarfish-max-1mb.png">
     <img src="/uploads/2019/09/19/dcbipdo-b351dd83-4c21-413f-bd23-7cf31deafd40.png">  <img
-    src="/uploads/2019/09/19/8-bit-photoshop.png"></p>
+    src="/uploads/2019/09/19/8-bit-photoshop.png">  <img src="/uploads/2019/09/19/avatar_id81220.png"></p>
 - template: detail-content
   block: text-1
   content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
