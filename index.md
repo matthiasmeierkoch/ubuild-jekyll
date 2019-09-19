@@ -48,7 +48,7 @@ page_sections:
   content: ''
   media:
     image: ''
-    alt_text: Gegner
+    alt_text: Gegner bekämpfen
 - template: content-feature
   block: feature-1
   media_alignment: Right
