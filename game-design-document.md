@@ -291,15 +291,14 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 2D
-  content: "<p>- Textures</p><p>- Environment Textures</p><p>- Heightmap data (If
-    applicable)</p><p>- List required data required - Example: DEM data of the entire
-    UK.</p><p>- Etc.</p><p><br></p>"
-- template: detail-content
-  block: text-1
-  content: "<p>- Characters List</p><p>- Character #1</p><p>- Character #2</p><p>-
-    Character #3</p><p>- etc.</p><p>- Environmental Art Lists</p><p>- Example #1</p><p>-
-    Example #2</p><p>- Example #3</p><p>- etc.</p>"
-  headline: 3D
+  content: <p><img src="/uploads/2019/09/19/bush32x32transparentanimated-winter.gif">
+    <img src="/uploads/2019/09/19/chopped96x96-winter.gif"> <img src="/uploads/2019/09/19/flower32x32transparentanimated-winter.gif">
+    <img src="/uploads/2019/09/19/riverbottom64x64transparentanimatednotbright-winter.gif">
+    <img src="/uploads/2019/09/19/riverbottomleft64x64-winter.gif"> <img src="/uploads/2019/09/19/rivertop64x64transparentanimated-winter.gif">
+    <img src="/uploads/2019/09/19/rivertopleft64x64transparent-winter.gif"> <img src="/uploads/2019/09/19/tree96x96transparentanimated-winter.gif"><img
+    src="/uploads/2019/09/19/e051a1c0dbed245a6fed4d51688d0572.png"> <img src="/uploads/2019/09/19/UniformFluffyCrownofthornsstarfish-max-1mb.png">
+    <img src="/uploads/2019/09/19/dcbipdo-b351dd83-4c21-413f-bd23-7cf31deafd40.png">  <img
+    src="/uploads/2019/09/19/8-bit-photoshop.png"></p>
 - template: detail-content
   block: text-1
   content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
