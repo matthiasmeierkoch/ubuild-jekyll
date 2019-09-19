@@ -238,15 +238,20 @@ page_sections:
   headline: Story (Brief)
 - template: detail-content
   block: text-1
-  content: "<p>&lt;Go into as much detail as needs be&gt;</p><p>&lt;Spare no detail&gt;</p><p>&lt;Use
-    Mind Mapping software to get your point across&gt;</p><p>Der Hauptcharakter lebt
-    im Süden in einer Welt die von einem bösartigen Virus befallen ist. Eines Tages
-    empfängt er ein Funksignal aus dem Norden, in diesem erfährt er dass der Virus
-    im Norden nicht bestehen kann, also macht er sich auf den Weg in den Norden und
-    verlässt sein sicheres Versteck im Süden.</p><p>Auf dem Weg muss er verschiedene
-    Länder durchqueren (Levels) und dabei muss er gegen Gegner kämpfen und Aufständigen
-    ausweichen.</p><p>In den Levels findet der Hauptcharakter Münzen und Waffen welche
-    er dann verwenden kann um seinen Weg durchs Level zu erkämpfen.</p>"
+  content: "<p>Eines Tages wecken Kriegssirenen Bodo auf. Ein tödlicher Virus befällt
+    die Welt und verwandelt Menschen in blutrünstige Monster. </p><p>Bodo verliert
+    all seine Freunde, Familie und Hab und Gut. Alleine schlägt er sich Tag für Tag
+    durch, bis er eines Tages ein Funksignal aus dem Norden empfängt. Er erfährt,
+    dass der Virus im Norden nicht überleben kann und es dort ein sicheres Lager an
+    Überlebenden hat. Bodo macht sich auf den Weg in den Norden und verlässt sein
+    sicheres Versteck im Süden.</p><p>Auf seiner Reise in den Norden, muss er verschiedene
+    Länder durchqueren (Levels) und dabei gegen Gegner kämpfen und aufständigen Überlebenden
+    ausweichen.</p><p>Es ist ein Wettkampf gegen die Zeit, denn je länger er sich
+    im Süden aufhält, desto schlimmer breitet sich der Virus aus. Die Gefahr steigt
+    sich selbst auch zu infizieren.</p><p>Bodo findet immer wieder wertvolle Münzen
+    und Waffen auf seinem Weg durch die verschiedenen Ländern. </p><p>Gelingt es Bodo
+    den Norden zu erreichen? Gibt es ein sicheres Camp und ein Heilmittel gegen den
+    Virus? … </p>"
   headline: Story (Detailed)
 - template: detail-content
   block: text-1
