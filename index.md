@@ -74,8 +74,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>Level's -</strong> Erreichst du das Ende des Levels ? dann bekommst
-    du einen Gegenstand oder Münzen welche dir im nächsten Land behilflich sein könnten. "
+  headline: "<strong>Länder </strong>– Erreiche so schnell wie möglich die Grenze
+    des Landes. Brauchst du zu lange, holt dich der Virus ein! Behalte den Timer im
+    Auge, fällt dieser auf Null, ist es zu spät."
   content: ''
   media:
     image: "/uploads/2019/09/19/Levelende.png"
