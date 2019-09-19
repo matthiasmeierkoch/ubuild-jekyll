@@ -84,9 +84,9 @@ page_sections:
     alt_text: Levelende
 - template: simple-footer
   block: footer-1
-  content: Built with ❤︎ by <a href="https://github.com/larsmaeder/" title="Lars Mäder">Lars
-    Mäder</a> &amp; <a href="https://github.com/matthiasmeierkoch" title="Matthias
-    Koch">Matthias Koch</a>
+  content: "Built with \U0001F499 by <a href=\"https://github.com/larsmaeder/\" title=\"Lars
+    Mäder\">Lars Mäder</a> &amp; <a href=\"https://github.com/matthiasmeierkoch\"
+    title=\"Matthias Koch\">Matthias Koch</a><br>"
 menu:
   main:
     identifier: home
