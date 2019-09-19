@@ -72,11 +72,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
+  headline: "<strong>Level's -</strong> Erreichst du das Ende des Levels ? dann bekommst
+    du einen Gegenstand oder Münzen welche dir im nächsten Land behilflich sein könnten. "
   content: ''
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2019/09/19/Levelende.png"
+    alt_text: Levelende
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
