@@ -206,10 +206,10 @@ page_sections:
   block: text-1
   headline: 'Gameplay Mechanic #6 (Power-Ups)'
   content: "<p><strong>Details</strong></p><p>Vorteil verschaffende Power-Ups.</p><p><strong>How
-    it works</strong></p><p>Kaufe dir Power-Ups um dir ein Bonus zu verschaffen.<br>–
-    Time <em>(Erhalte mehr Zeit für ein Level, +1 Minute)</em><br>– Warlock <em>(Erhalte
-    mehr Leben, +20%)</em><br>– Fighter <em>(Deine Attacken sind stärker, +20%)</em><br>–
-    Collector <em>(Erhalte mehr Münzen nach gewonnenen Kämpfen)</em></p>"
+    it works</strong></p><p>Kaufe dir im InGame-Store Power-Ups um dir ein Bonus zu
+    verschaffen.<br>– Time <em>(Erhalte mehr Zeit für ein Level, +1 Minute)</em><br>–
+    Warlock <em>(Erhalte mehr Leben, +20%)</em><br>– Fighter <em>(Deine Attacken sind
+    stärker, +20%)</em><br>– Collector <em>(Erhalte mehr Münzen nach gewonnenen Kämpfen)</em></p>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #7'
