@@ -134,7 +134,7 @@ page_sections:
   content: "<p>Stell dir vor ein aggressiver Virus befällt die Welt und verwandelt
     die Menschheit zu Monstern. Du bist die einzige Hoffnung der Menschheit. Eines
     Tages lokalisiert du ein unbekanntes, im hohen Norden, abgesetztes Funksignal.
-    Weitere Überlebende? Du greifst nach jedem Strohhalm und gehst der Spur nach,
+    Weitere Überlebende? … Du greifst nach jedem Strohhalm und gehst der Spur nach,
     in der Hoffnung die Menschheit retten zu können. Doch es gibt einen Haken, du
     bist auf der anderen Seite der Welt – Im Süden. Es gibt keinen Weg zurück. Welche
     Richtung du einschlägst entscheidet über Leben und Tod – entscheide Weise. Töte
