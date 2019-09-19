@@ -37,7 +37,7 @@ page_sections:
     gut für welche Richtung du dich entscheidest."
   content: ''
   media:
-    image: "/uploads/2019/09/16/Desicion.png"
+    image: "/uploads/2019/09/19/Entscheidung_1.png"
     alt_text: Entscheidung
 - template: content-feature
   block: feature-1
