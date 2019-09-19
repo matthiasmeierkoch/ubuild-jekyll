@@ -181,9 +181,8 @@ page_sections:
     die Spielfigur stirbt.</p>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #3'
-  content: "<p>- &lt;Details&gt;</p><p>Run Button</p><p>- &lt;How it works&gt;</p><p>Lässt
-    den Spieler rennen</p>"
+  headline: 'Gameplay Mechanic #3 (Leben)'
+  content: "<h3>Details</h3><p>jkjb</p><h3>How it works</h3>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #4'
