@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/09/14/north-1.jpg"
   navigation:
+  - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
+    link_text: Watch our Pitch
   - link: "/"
     link_text: Home
   - link: "/game-design-document"
