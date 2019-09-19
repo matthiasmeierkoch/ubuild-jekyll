@@ -173,9 +173,12 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Gameplay Mechanic #2 (Zeit)'
-  content: "<p><strong>Action Button</strong></p><p>Löst eine gewisse Action aus.</p><p><strong>How
-    it works</strong></p><p>Durch drücken des Action Buttons lassen sich Waffen feuern,
-    Schatztruhen öffnen, Kämpfe mit Infizierten bewältigen und wenn nötig Türen öffnen.</p>"
+  content: "<p><strong>Details</strong></p><p>Zeitindikator um ein Land (Level) zu
+    bestreiten.</p><p><strong>How it works</strong></p><p>Startet das Land (Level)
+    gibt es eine bestimmte Zeitvorgabe. Es gilt innerhalb dieser Vorgabe das Level
+    abzuschliessen. Wird vor Ablauf der Zeit das Ende erreicht, ist das Level abgeschlossen.
+    Läuft die Zeit ab bevor das Ende erreicht wird, gewinnt der Virus Überhand und
+    die Spielfigur stirbt.</p>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #3'
