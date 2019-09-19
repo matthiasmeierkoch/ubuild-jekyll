@@ -47,7 +47,7 @@ page_sections:
     Waffen, lass dich dabei nicht infizieren."
   content: ''
   media:
-    image: "/uploads/2019/09/16/fight.png"
+    image: "/uploads/2019/09/19/Gegner_bekämpfen.png"
     alt_text: Gegner
 - template: content-feature
   block: feature-1
