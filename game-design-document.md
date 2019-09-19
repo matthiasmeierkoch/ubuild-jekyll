@@ -91,7 +91,7 @@ page_sections:
     Manager</strong><br>Tätigkeit: Erstellung einer Vision und eines langfristigen
     Marketingplans; Strategische Entwicklung aller Marketingaktivitäten; Budgetverteilung
     über mehrere Plattformen, Märkte und Kanäle hinweg; Führung und Coaching des Marketingteams
-    des Unternehmens</p></li><li><p>Durchschnittslohn: 9´000 CHF / Monat</p><p></p></li></ul><h3><strong>Licenses
+    des Unternehmens<br>Durchschnittslohn: 9´000 CHF / Monat</p><p></p></li></ul><h3><strong>Licenses
     / Hardware / Other Costs</strong></h3><ul><li><p>Developer Accounts</p></li><li><p>Hardware
     Testing Devices</p></li><li><p>User Testings</p><p></p></li></ul><h3><strong>Total
     Costs with breakdown</strong></h3><p>200´000–250´000 CHF</p>"
