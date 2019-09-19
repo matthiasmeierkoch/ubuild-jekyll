@@ -113,10 +113,10 @@ page_sections:
 - template: detail-content
   block: text-1
   content: '<p><img src="https://lh6.googleusercontent.com/FZ1lhcTryTOv1Igr1Lh8jXSjy7vC1mGjegbDCOuqTMIorpH2E-ZbSgeBdbU1v1yb01ONwc9VqOq4x6UB7G166bqL3Tisbz4gVjoJ5xpTteluYeZ3-Y3qbmNfS2P-Qy0_M1bVJhLv"
-    width="291" height="164"></p><p><strong>PC Games<br>Inspiration: </strong>Der
-    16-Bit Stil des Spiels. Farben und Stimmung der Umgebung. Wird von Links nach
-    Rechts gespielt. In einer verlassenen Burg muss man jede Ecke erkunden, Feinden
-    und tödlichen Fallen entkommen.</p>'
+    width="291" height="164"></p><p><strong>PC Games</strong></p><p><strong>Inspiration:
+    </strong>Der 16-Bit Stil des Spiels. Farben und Stimmung der Umgebung. Wird von
+    Links nach Rechts gespielt. In einer verlassenen Burg muss man jede Ecke erkunden,
+    Feinden und tödlichen Fallen entkommen.</p>'
   headline: InMost
 - template: detail-content
   block: text-1
