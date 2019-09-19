@@ -76,7 +76,8 @@ page_sections:
   media_alignment: Right
   headline: "<strong>Länder </strong>– Erreiche so schnell wie möglich die Grenze
     des Landes. Brauchst du zu lange, holt dich der Virus ein! Behalte den Timer im
-    Auge, fällt dieser auf Null, ist es zu spät."
+    Auge, fällt dieser auf Null, ist es zu spät. Tipp: An Ländergrenzen wurden oft
+    militärische Kämpfe geführt, halte Ausschau auf wertvolle Münzen oder Waffen."
   content: ''
   media:
     image: "/uploads/2019/09/19/Levelende.png"
