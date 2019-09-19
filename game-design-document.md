@@ -59,7 +59,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Targeted platforms
-  content: "<ul><li><p>Mobile, Android OS</p></li><li><p>iPhones, iOS</p></li></ul>"
+  content: "<ul><li><p>Android OS</p></li><li><p>iOS</p></li></ul>"
 - template: detail-content
   block: text-1
   content: "<h3>In-game purchases</h3><ul><li><p>Waffen</p></li><li><p>Münzen</p></li><li><p>Power-Ups</p></li></ul>"
