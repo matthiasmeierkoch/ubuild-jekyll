@@ -212,11 +212,13 @@ page_sections:
     stärker, +20%)</em><br>– Collector <em>(Erhalte mehr Münzen nach gewonnenen Kämpfen)</em></p>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #7'
-  content: "<p>- &lt;Details&gt;</p><p>Border Controls</p><p>- &lt;How it works&gt;</p><p>Trifft
-    man eine falsche Entscheidung und begibt sich auf einen Falschen Weg, gelangt
-    man zu einem Border Control. Aufständige machen sich die Apokalypse zum Vorteil
-    und verlangen einen Preis, damit du deine Reise weiterführen kannst. Münzen.</p>"
+  headline: 'Gameplay Mechanic #7 (Gegner)'
+  content: "<p><strong>Details</strong></p><p>Infizierte oder aufständige Überlebende.</p><p><strong>How
+    it works</strong></p><p>Aufständige Überlebende machen sich die Apokalypse zum
+    Vorteil. Trifft man eine falsche Entscheidung und begibt sich so auf einen falschen
+    Weg, tritt man in eine Falle. Aufständige verlangen einen Preis, damit du deine
+    Reise weiterführen kannst. Entweder man bezahlt mit Münzen oder man kämpft um
+    sein Überleben.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
