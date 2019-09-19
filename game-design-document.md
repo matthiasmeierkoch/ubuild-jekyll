@@ -75,17 +75,21 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Project Scope
-  content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 50´000–150´000
-    CHF</p></li><li><p>6 Monate</p><p></p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
-    Team</strong></p><ul><li><p>Team Member name?</p></li><li><p>What does he/she
-    do?</p></li><li><p>&lt;Cost to employ them full time or part time&gt;</p></li><li><p>etc.</p></li><li><p>(List
-    as many core team members as you need to)</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team
-    Member name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ
-    them full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many
-    marketing team members as you need to)</p><p></p></li></ul><h3><strong>Licenses
-    / Hardware / Other Costs</strong></h3><ul><li><p>Music/Sounds</p></li><li><p>Assets</p></li><li><p>Apple
+  content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 150´000–200´000
+    CHF</p></li><li><p>6–8 Monate</p><p></p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
+    Team</strong></p><ul><li><p><strong>Programmierer</strong><br>Tätigkeit: Programmer<br>Durchschnittslohn:
+    36´000</p></li><li><p><strong>Designer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    30´000</p></li><li><p><strong>Artist<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    30´000</p></li><li><p><strong>Sound Designer/Composer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    33´000</p></li><li><p><strong>Project Manager<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    42´000</p></li><li><p><strong>UX/UI-Designer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    33´000</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team Member
+    name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ them
+    full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many marketing
+    team members as you need to)</p><p></p></li></ul><h3><strong>Licenses / Hardware
+    / Other Costs</strong></h3><ul><li><p>Music/Sounds</p></li><li><p>Assets</p></li><li><p>Apple
     Developer Account</p></li><li><p>Hardware Testing Devices</p><p></p></li></ul><h3><strong>Total
-    Costs with breakdown</strong></h3><p>50´000–150´000 CHF</p>"
+    Costs with breakdown</strong></h3><p>100´000–150´000 CHF</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Right
