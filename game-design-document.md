@@ -259,12 +259,22 @@ page_sections:
   headline: Gameplay (Brief)
 - template: detail-content
   block: text-1
-  content: "<p>&lt;Go into as much detail as needs be&gt;</p><p>&lt;Spare no detail&gt;</p><p>&lt;Combine
-    this with the game mechanics section above&gt;</p><p>Der Gamer muss Entscheidungen
-    treffen in welche Himmelsrichtung sich der Hauptcharakter bewegen soll, dabei
-    ist Norden nicht immer die beste entscheidung denn auf dem Weg haben aufständige
-    Strassensperren errichtet. Diese musst du bezahlen oder das Level von neuem beginnen
-    und eine andere Route versuchen, hier ist Geschicklichkeit gefragt.</p>"
+  content: "<p>Du musst entscheiden welchen Weg du einschlägst. Der einzige Ort an
+    dem du sicher bist, ist im kalten Norden. Doch dein Weg zur Hoffnung ist voller
+    Infizierten und aufständigen Überlebenden, überlege dir also gut, für welche Richtung
+    du dich entscheidest.</p><p><strong>Bekämpfe die Gegner </strong>–<strong> </strong>doch
+    lass dich dabei nicht infizieren. Bekämpfe Infizierte und aufständige Überlebende
+    um in den Norden zu gelangen. Auf deinem Weg findest du zahlreiche Waffen, wertvolle
+    Münzen und nützliche Power-Ups.</p><p><strong>Münzen sammeln </strong>–<strong>
+    </strong>Gewinnst du im Kampf gegen Infizierte oder aufständige Überlebende, lassen
+    diese wertvolle Münzen und nützliche Waffen fallen. Rüste dich aus! Diese können
+    dir auf deiner Reise sehr hilfreich werden.</p><p><strong>Achtung, Aufständige!</strong>
+    Tappst du in ihre Falle, versperren sie dir den Weg. Du hast nur zwei Möglichkeiten,
+    bezahle mit Münzen oder lass deine Muskeln spielen und kämpfe um Leben und Tod.</p><p><strong>Länder
+    </strong>– Erreiche so schnell wie möglich die Grenze des Landes. Brauchst du
+    zu lange, holt dich der Virus ein! Behalte den Timer im Auge, fällt dieser auf
+    Null, ist es zu spät. <em>Tipp: An Ländergrenzen wurden oft militärische Kämpfe
+    geführt, halte Ausschau nach wertvolle Münzen oder Waffen.</em></p>"
   headline: Gameplay (Detailed)
 - template: content-feature
   block: feature-1
