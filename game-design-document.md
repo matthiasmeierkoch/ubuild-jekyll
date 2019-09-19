@@ -172,7 +172,7 @@ page_sections:
     zurück bewegen.</p>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #2'
+  headline: 'Gameplay Mechanic #2 (Zeit)'
   content: "<p><strong>Action Button</strong></p><p>Löst eine gewisse Action aus.</p><p><strong>How
     it works</strong></p><p>Durch drücken des Action Buttons lassen sich Waffen feuern,
     Schatztruhen öffnen, Kämpfe mit Infizierten bewältigen und wenn nötig Türen öffnen.</p>"
