@@ -59,6 +59,14 @@ page_sections:
     bezahle sie wenn du kannst oder beginne das Level erneut und versuche einen anderen
     Weg."
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  media:
+    image: "/uploads/2019/09/19/Rebellen.png"
+    alt_text: Rebellen
+  headline: ''
+  content: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
