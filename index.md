@@ -56,8 +56,9 @@ page_sections:
   media:
     image: "/uploads/2019/09/19/Kampf_Gewonnen.png"
     alt_text: Sammeln
-  headline: "<strong>Münzen sammeln - </strong>Gewinnst du im Kampf gegen die Gegner
-    so können diese Waffen oder Münzen fallen lassen, diese können dir später noch
+  headline: "<strong>Münzen sammeln </strong>–<strong> </strong>Gewinnst du im Kampf
+    gegen Infizierte oder aufständige Überlebende, lassen diese wertvolle Münzen und
+    nützliche Waffen fallen. Rüste dich aus! Diese können dir auf deiner Reise sehr
     hilfreich werden."
   content: ''
 - template: content-feature
