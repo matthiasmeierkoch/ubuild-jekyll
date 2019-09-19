@@ -77,12 +77,16 @@ page_sections:
   headline: Project Scope
   content: "<h3><strong>Game Time Scale</strong></h3><ul><li><p>Estimated 200´000–250´000
     CHF</p></li><li><p>6–8 Monate</p><p></p></li></ul><h3><strong>Team Size</strong></h3><p><strong>Core
-    Team</strong></p><ul><li><p><strong>Programmierer</strong><br>Tätigkeit: Programmer<br>Durchschnittslohn:
-    36´000</p></li><li><p><strong>Designer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
-    30´000</p></li><li><p><strong>Artist<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
-    30´000</p></li><li><p><strong>Sound Designer/Composer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
-    33´000</p></li><li><p><strong>Project Manager<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
-    42´000</p></li><li><p><strong>UX/UI-Designer<br></strong>Tätigkeit: Programmer<br>Durchschnittslohn:
+    Team</strong></p><ul><li><p><strong>Programmierer</strong><br>Tätigkeit: Programmierung/Umsetzung
+    des Spiels.<br>Durchschnittslohn: 36´000</p></li><li><p><strong>Designer<br></strong>Tätigkeit:
+    Entwickeln von Assets, Charakterdesign, Schaut auf das Einhalten von eigenen Gamedesign-Vorgaben,
+    GameDesignDocument<br>Durchschnittslohn: 30´000</p></li><li><p><strong>Artist<br></strong>Tätigkeit:
+    Entwickeln von Game Visuals und Charakterdesign, Stimmung und Gefühl des Spiels
+    <br>Durchschnittslohn: 30´000</p></li><li><p><strong>Sound Designer/Composer<br></strong>Tätigkeit:
+    Sound Effects, Music<br>Durchschnittslohn: 33´000</p></li><li><p><strong>Project
+    Manager<br></strong>Tätigkeit: Übernimmt die Planung, achtet auf die Einhaltung
+    der Timeline etc., setzt Milestones<br>Durchschnittslohn: 42´000</p></li><li><p><strong>UX/UI-Designer<br></strong>Tätigkeit:
+    User Interface und User Experience, führt User Testings durch, Gameflow<br>Durchschnittslohn:
     33´000</p></li></ul><p><strong>Marketing Team</strong></p><ul><li><p>Team Member
     name?</p></li><li><p>What does he/she do?</p></li><li><p>&lt;Cost to employ them
     full time or part time&gt;</p></li><li><p>Etc.</p></li><li><p>(List as many marketing
