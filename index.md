@@ -7,12 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/09/14/north-1.jpg"
   navigation:
-  - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
-    link_text: Watch our Pitch
   - link: "/"
     link_text: Home
   - link: "/game-design-document"
     link_text: Game Design Document
+  - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
+    link_text: Watch our Pitch
   cta:
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North---Game?node-id=9%3A5&viewport=315%2C718%2C0.2886125147342682&scaling=scale-down
     button_text: View Prototype
