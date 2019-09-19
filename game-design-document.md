@@ -188,9 +188,12 @@ page_sections:
     getroffen, sinkt dieser Indikator. Erreicht dieser Null, stirbt der Charakter.</p>"
 - template: detail-content
   block: text-1
-  headline: 'Core Gameplay Mechanic #4'
-  content: "<p>- &lt;Details&gt;</p><p>Infizierte</p><p>- &lt;How it works&gt;</p><p>Greifen
-    den Hauptcharakter an. Können ihn töten und so das Spiel beenden.</p>"
+  headline: 'Gameplay Mechanic #4 (Münzen)'
+  content: "<p><strong>Details</strong></p><p>Anzahl Münzen.</p><p><strong>How it
+    works</strong></p><p>Münzen erhält man beim Abschluss eines Levels, nach einem
+    Kampf, oder beim finden einer Schatzkiste. Mittels Münzen können im InGame-Store
+    Waffen, Power-Ups gekauft werden. Tritt man in eine Falle von Aufständigen muss
+    man mit Münzen bezahlen oder einen Kampf führen.</p>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #5'
