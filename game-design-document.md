@@ -62,7 +62,15 @@ page_sections:
   content: "<ul><li><p>Android OS</p></li><li><p>iOS</p></li></ul>"
 - template: detail-content
   block: text-1
-  content: "<h3>In-game purchases</h3><ul><li><p>Waffen</p></li><li><p>Münzen</p></li><li><p>Power-Ups</p></li></ul>"
+  content: "<h3>InGame purchases</h3><ul><li><p><strong>Waffen<br></strong>Kaufe Waffen
+    innerhalb des InGame-Stores. Verschaffe dir mit verbesserten und stärkeren Waffen,
+    bereits von Anfang des Spiels einen Vorteil und komm schneller voran.</p></li><li><p><strong>Münzen</strong><br>Kaufe
+    Münzen Pakete (20, 50, 100, 200). Behalte den Überblick und kauf dich aus unangenehmen
+    Situationen heraus.</p></li><li><p><strong>Power-Ups</strong></p><p>Kaufe dir
+    Power-Ups um dir ein Bonus zu verschaffen.<br>–&nbsp;Time (Erhalte mehr Zeit für
+    ein Level, +1 Minute)<br>–&nbsp;Warlock (Erhalte mehr Leben, +20%)<br>– Fighter
+    (Deine Attacken sind stärker, +20%)<br>– Collector (Erhalte mehr Münzen nach gewonnenen
+    Kämpfen)</p></li></ul>"
   headline: 'Monetization model (Brief/Document) '
 - template: detail-content
   block: text-1
