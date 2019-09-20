@@ -347,19 +347,12 @@ page_sections:
     alt_text: ''
 - template: detail-content
   block: text-1
-  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
-  headline: 'Object #1'
-- template: detail-content
-  block: text-1
-  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
-  headline: 'Object #2 '
-- template: detail-content
-  block: text-1
-  headline: 'Object #3'
-  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
-- template: detail-content
-  block: text-1
-  headline: 'Object #4'
-  content: "<p>- Time Scale</p><p>- Milestone 1</p><p>- Milestone 2</p><p>- Etc.</p>"
+  content: "<ol><li><p>Projektplan</p></li><li><p>Konzept und Nutzerführung</p></li><li><p>Assets
+    Design System </p></li><li><p>Charakterdesign</p></li><li><p>Prototyp bzw. der
+    erste MVP umsetzen</p></li><li><p>Levels programmieren und aufbauen</p><ol><li><p>Level
+    für Level umsetzen</p></li></ol><ol><li><p>Die Assets werden von Land zu Land
+    angepasst </p></li></ol></li><li><p>Sounddesigner und Composer </p></li><li><p>Marketing
+    Manager Vermarktungsmethoden</p></li><li><p>App Stores.</p></li></ol>"
+  headline: Timeline
 
 ---
