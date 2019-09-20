@@ -303,16 +303,16 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 2D
-  content: <p>North:</p><p><img src="/uploads/2019/09/19/bush32x32transparentanimated-winter.gif">
+  content: <p><strong>North:</strong></p><p><img src="/uploads/2019/09/19/bush32x32transparentanimated-winter.gif">
     <img src="/uploads/2019/09/19/chopped96x96-winter.gif"> <img src="/uploads/2019/09/19/flower32x32transparentanimated-winter.gif">
     <img src="/uploads/2019/09/19/riverbottom64x64transparentanimatednotbright-winter.gif">
     <img src="/uploads/2019/09/19/riverbottomleft64x64-winter.gif"> <img src="/uploads/2019/09/19/rivertop64x64transparentanimated-winter.gif">
-    <img src="/uploads/2019/09/19/rivertopleft64x64transparent-winter.gif"> <img src="/uploads/2019/09/19/tree96x96transparentanimated-winter.gif"></p><p>South:</p><p><img
+    <img src="/uploads/2019/09/19/rivertopleft64x64transparent-winter.gif"> <img src="/uploads/2019/09/19/tree96x96transparentanimated-winter.gif"></p><p><strong>South:</strong></p><p><img
     src="/uploads/2019/09/20/bush32x32transparentanimated.gif"> <img src="/uploads/2019/09/20/chopped96x96.gif">
     <img src="/uploads/2019/09/20/flower32x32transparentanimated-summer.gif"> <img
     src="/uploads/2019/09/20/riverbottom64x64transparentanimatednotbright.gif"> <img
     src="/uploads/2019/09/20/riverbottomleft64x64.gif"> <img src="/uploads/2019/09/20/rivertop64x64transparentanimated.gif">
-    <img src="/uploads/2019/09/20/rivertopleft64x64transparent.gif"> <img src="/uploads/2019/09/20/tree96x96transparentanimated.gif"></p><p>Player:</p><p><img
+    <img src="/uploads/2019/09/20/rivertopleft64x64transparent.gif"> <img src="/uploads/2019/09/20/tree96x96transparentanimated.gif"></p><p><strong>Player:</strong></p><p><img
     src="/uploads/2019/09/19/e051a1c0dbed245a6fed4d51688d0572.png"> <img src="/uploads/2019/09/19/UniformFluffyCrownofthornsstarfish-max-1mb.png">
     <img src="/uploads/2019/09/19/dcbipdo-b351dd83-4c21-413f-bd23-7cf31deafd40.png">
     <img src="/uploads/2019/09/19/8-bit-photoshop.png"> <img src="/uploads/2019/09/19/avatar_id81220-1.png">
