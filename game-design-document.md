@@ -144,7 +144,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Project Description (Brief):'
-  content: "<p>&lt;Two Paragraphs at least&gt;</p><p>&lt;No more than three paragraphs&gt;</p>"
+  content: "<p>Das Projekt wird über 8 Monate in einem Team von 7 Personen umgesetzt
+    werden. Das Team besteht aus Programmierer, Designer, Artist, UX Designer, Sound
+    Designer, Project Manager und Marketing Manager.</p>"
 - template: detail-content
   block: text-1
   content: "<p>&lt;Four Paragraphs or more If needs be&gt;</p><p>&lt;No more than
