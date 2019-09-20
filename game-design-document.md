@@ -323,13 +323,7 @@ page_sections:
     <img src="/uploads/2019/09/19/compass-05.png"></p>
 - template: detail-content
   block: text-1
-  content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
-    2</p><p>- Level 3</p><p>- etc.</p><p>- Inside</p><p>- Level 1</p><p>- Level 2</p><p>-
-    Level 3</p><p>- etc.</p><p>- Sound List (Player)</p><p>- Character Movement Sound
-    List</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>- Character Hit /
-    Collision Sound list</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>-
-    Character on Injured / Death sound list</p><p>- Example 1</p><p>- Example 2</p><p>-
-    etc.</p>"
+  content: "<object width="148" height="44"><param name="movie" value="https://vocaroo.com/player.swf?playMediaID=s199xNMYZ1Nx&autoplay=0"></param><param name="wmode" value="transparent"></param><embed src="https://vocaroo.com/player.swf?playMediaID=s199xNMYZ1Nx&autoplay=0" width="148" height="44" wmode="transparent" type="application/x-shockwave-flash"></embed></object>"
   headline: Sound
 - template: detail-content
   block: text-1
