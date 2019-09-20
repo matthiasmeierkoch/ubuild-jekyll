@@ -171,8 +171,11 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Reasons
-  content: "<ul><li><p>&lt;Reason #1&gt;</p></li><li><p>&lt;Reason #2&gt;</p></li><li><p>&lt;Reason
-    #3&gt;</p></li><li><p>&lt;Reason #4&gt;</p></li><li><p>&lt;etc.&gt;</p></li></ul>"
+  content: "<ul><li><p>Das Spiel erzählt eine Geschichte die den Spieler dazu anregt
+    seine Spielfigur vor dem Virus zu retten.</p></li><li><p> Die Spieler sammeln
+    Münzen und Gegenstände womit Sie sich den Weg in den Norden besser erkäpfen können.</p></li><li><p>Auch
+    Geschicklichkeit wird von den Spielern gefragt, denn gehen Sie mit ihren Ressourcen
+    falsch um müssen Sie das Level von neu beginnen.</p><p><br></p></li></ul>"
 - template: detail-content
   block: text-1
   headline: 'Core Gameplay Mechanic #1 (Kompass)'
