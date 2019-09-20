@@ -323,13 +323,8 @@ page_sections:
     <img src="/uploads/2019/09/19/compass-05.png"></p>
 - template: detail-content
   block: text-1
-  content: "<p>- Sound List (Ambient)</p><p>- Outside</p><p>- Level 1</p><p>- Level
-    2</p><p>- Level 3</p><p>- etc.</p><p>- Inside</p><p>- Level 1</p><p>- Level 2</p><p>-
-    Level 3</p><p>- etc.</p><p>- Sound List (Player)</p><p>- Character Movement Sound
-    List</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>- Character Hit /
-    Collision Sound list</p><p>- Example 1</p><p>- Example 2</p><p>- etc.</p><p>-
-    Character on Injured / Death sound list</p><p>- Example 1</p><p>- Example 2</p><p>-
-    etc.</p>"
+  content: <p><strong>Mainsound:</strong></p><ul><li><p><a href="/uploads/2019/09/20/Spy.mp3"
+    title="Mainsound.mp3">Mainsound.mp3</a></p></li></ul>
   headline: Sound
 - template: detail-content
   block: text-1
