@@ -12,7 +12,7 @@ page_sections:
   - link: "/game-design-document"
     link_text: GDD
   - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
-    link_text: Watch our Pitch
+    link_text: Pitch
   cta:
     url: https://www.figma.com/proto/3PbliPVq17oY0RYIr541Jo/North---Game?node-id=9%3A5&viewport=315%2C718%2C0.2886125147342682&scaling=scale-down
     button_text: View Prototype
