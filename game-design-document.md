@@ -348,11 +348,13 @@ page_sections:
 - template: detail-content
   block: text-1
   content: "<ol><li><p>Projektplan</p></li><li><p>Konzept und Nutzerführung</p></li><li><p>Assets
-    Design System </p></li><li><p>Charakterdesign</p></li><li><p>Prototyp bzw. der
-    erste MVP umsetzen</p></li><li><p>Levels programmieren und aufbauen</p><ol><li><p>Level
+    Design System</p></li><li><p>Charakterdesign</p><ol><li><p>Game Visuals</p></li></ol></li><li><p>Prototyp
+    bzw. der erste MVP umsetzen</p></li><li><p>Levels programmieren und aufbauen</p><ol><li><p>Level
     für Level umsetzen</p></li></ol><ol><li><p>Die Assets werden von Land zu Land
-    angepasst </p></li></ol></li><li><p>Sounddesigner und Composer </p></li><li><p>Marketing
-    Manager Vermarktungsmethoden</p></li><li><p>App Stores.</p></li></ol>"
+    angepasst</p></li></ol></li><li><p>Sounddesigner und Composer erstellen Gamesounds</p></li><li><p>Marketing
+    Manager</p><ol><li><p>Vermarktungsmethoden erstellen</p></li><li><p>Kampagnen
+    planen</p></li></ol></li><li><p>Going Live on Google Play Store and Apple App
+    Store</p></li></ol>"
   headline: Timeline
 
 ---
