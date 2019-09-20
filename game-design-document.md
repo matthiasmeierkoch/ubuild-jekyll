@@ -324,7 +324,9 @@ page_sections:
 - template: detail-content
   block: text-1
   content: <p><strong>Mainsound:</strong></p><ul><li><p><a href="/uploads/2019/09/20/Spy.mp3"
-    title="Mainsound.mp3">Mainsound.mp3</a></p></li></ul>
+    title="Mainsound.mp3">Mainsound.mp3</a></p></li></ul><p><strong>Soundeffects:</strong></p><ul><li><p><a
+    href="/uploads/2019/09/20/gameover.wav" title="gameover.wav">Gameover.wav</a></p></li><li><p><a
+    href="/uploads/2019/09/20/getmoney.wav" title="getmoney.wav">GetMoney.wav</a></p></li></ul>
   headline: Sound
 - template: detail-content
   block: text-1
