@@ -10,7 +10,7 @@ page_sections:
   - link: "/index"
     link_text: Home
   - link: "/game-design-document"
-    link_text: Game Design Document
+    link_text: GDD
   - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
     link_text: Watch our Pitch
   cta:
