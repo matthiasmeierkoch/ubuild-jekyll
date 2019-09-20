@@ -68,9 +68,9 @@ page_sections:
     innerhalb des InGame-Stores. Verschaffe dir mit verbesserten und stärkeren Waffen,
     bereits von Anfang des Spiels einen Vorteil und komm schneller voran.</p></li><li><p><strong>Münzen</strong><br>Kaufe
     Münzen Pakete (20, 50, 100, 200). Behalte den Überblick und kauf dich aus unangenehmen
-    Situationen heraus.</p></li><li><p><strong>Power-Ups<br></strong>Kaufe dir Power-Ups
-    um dir ein Bonus zu verschaffen.<br>–&nbsp;Time <em>(Erhalte mehr Zeit für ein
-    Level, +1 Minute)</em><br>–&nbsp;Warlock <em>(Erhalte mehr Leben, +20%)</em><br>–
+    Situationen heraus.</p></li><li><p><strong>Power-Ups<br></strong>Kaufe dir ein
+    aktivierbares Power-Up um dir ein Bonus zu verschaffen.<br>– Time <em>(Erhalte
+    mehr Zeit, +1 Minute)</em><br>– Warlock <em>(Erhalte mehr Leben, +20%)</em><br>–
     Fighter <em>(Deine Attacken sind stärker, +20%)</em><br>– Collector <em>(Erhalte
     mehr Münzen nach gewonnenen Kämpfen)</em></p></li></ul>"
   headline: 'Monetization model (Brief/Document) '
