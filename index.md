@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "/game-design-document"
-    link_text: GDC
+    link_text: GDD
   - link: https://hackmd.io/@larsmaeder/rJCn2dJ8B#/
     link_text: Pitch
   cta:
