@@ -144,9 +144,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: 'Project Description (Brief):'
-  content: "<p>Das Projekt wird über 8 Monate in einem Team von 7 Personen umgesetzt
-    werden. Das Team besteht aus Programmierer, Designer, Artist, UX Designer, Sound
-    Designer, Project Manager und Marketing Manager.</p>"
+  content: "<p>Das Projekt wird über 8 Monate in einem Team von 7 Personen umgesetzt.
+    Das Team besteht aus Programmierer, Designer, Artist, UX Designer, Sound Designer,
+    Project Manager und Marketing Manager.</p>"
 - template: detail-content
   block: text-1
   content: "<p>Zu Beginn des Projekts würde der Project Manager einen Projektplan
