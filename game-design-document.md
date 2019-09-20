@@ -149,8 +149,16 @@ page_sections:
     Designer, Project Manager und Marketing Manager.</p>"
 - template: detail-content
   block: text-1
-  content: "<p>&lt;Four Paragraphs or more If needs be&gt;</p><p>&lt;No more than
-    six paragraphs&gt;</p>"
+  content: "<p>Zu beginn des Projekt würde der Project Manager einen Projektplan aufstellen.
+    Das Design Team beginnt mit dem Konzept und der Nutzerführung, weiter würde der
+    Artist und Designer ein Assets Design System erstellen und das Charakter Design
+    übernehmen. Mit den erarbeiteten Levels vom UX Designer und den erarbeiteten Assets
+    werden dann die Länder und Levels gebaut.</p><p>Agil wird mit dem Entwickler Level
+    um Level umgesetzt. Die Assets werden von Land zu Land noch angepasst werden um
+    das Look and Feel des Norden zu vermitteln. Wenn der Prototyp oder der MVP steht
+    werden die Sounddesigner und Composer miteinbezogen. Für das fertige Spiel werden
+    vom Marketing Manager alle nötigen Vermarktungsmethoden aufgegleist und das Spiel
+    kommt in die App Stores.</p><p><br></p>"
   headline: Project Description (Detailed)
 - template: content-feature
   block: feature-1
